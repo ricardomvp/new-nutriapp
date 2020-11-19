@@ -1,0 +1,66 @@
+
+{% block content %}
+<div class="container">
+  <div class="welcome">
+    <h3>
+      Hola!<br>
+      Aqui estamos preocupados por la salud, y tu deberias hacer lo mismo! <br>
+      Porque no le tomas una foto a los ingredientes de la comida envasada <br>
+      que consumes, la subes, y nosotros te decimos si tiene algun producto <br>
+      que pueda ser dañino.
+  </div>
+
+  <hr>
+
+  <div class="new-card">
+    <form method="post" enctype='multipart/form-data'>
+    {% csrf_token %}
+    <div class="form-group">
+      <input class="form-control"
+            type="file"
+            name="image"
+            placeholder="image to upload"
+            accept="image/jpeg"
+            required="true">
+    </div>
+    {{ form.as_p}}
+    <button type="submit" name="Upload" class="btn-new-image">Upload</button>
+  </form>
+  </div>
+
+  <hr>
+
+  <div class="cards">
+    {% for card in cards %}
+      {% if card.dangerousness == 0 %}
+        <div class="red_card">
+            {% include 'base/card.html' %}
+        </div>
+      {% endif %}
+
+      {% if card.dangerousness == 1 %}
+        <div class="yellow_card">
+            {% include 'base/card.html' %}
+        </div>
+      {% endif %}
+
+      {% if card.dangerousness == 2 %}
+        <div class="green_card">
+            {% include 'base/card.html' %}
+        </div>
+      {% endif %}
+
+    {% endfor %}
+  </div>
+
+  <div class="pagination">
+    {% for page in pages %}
+      {% block pagination %}
+        {% include 'base/pagination.html' %}
+      {% endblock %}
+    {% endfor %}
+  </div>
+
+</div>
+
+{% endblock %}

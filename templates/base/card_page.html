@@ -1,0 +1,27 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Nutri info | card</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/main.css' %}">
+  </head>
+
+  <body>
+    <div class="background">
+      <div class="content">
+
+          {% block navbar %}
+            {% include 'base/navbar.html' %}
+          {% endblock %}
+
+          {% block body %}
+            {% include 'base/card_body.html' %}
+          {% endblock %}
+
+      </div>
+    </div>
+  </body>
+
+</html>

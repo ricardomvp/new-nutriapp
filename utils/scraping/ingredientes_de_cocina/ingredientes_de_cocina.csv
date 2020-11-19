@@ -1,0 +1,165 @@
+name,e-number,toxicity,origin,clasif,link
+Aceite de soja,---,---,---,---,/wiki/Aceite_de_soja
+Aceite de maíz,---,---,---,---,/wiki/Aceite_de_ma%C3%ADz
+Aceite de oliva,---,---,---,---,/wiki/Aceite_de_oliva
+Aceite de trufa,---,---,---,---,/wiki/Aceite_de_trufa
+Yogur,---,---,---,---,/wiki/Yogur
+Leche,---,---,---,---,/wiki/Leche
+Helado,---,---,---,---,/wiki/Helado
+Queso,---,---,---,---,/wiki/Queso
+Cuajada,---,---,---,---,/wiki/Cuajada
+Mantequilla,---,---,---,---,/wiki/Mantequilla
+Setas,---,---,---,---,/wiki/Seta
+Hongos,---,---,---,---,/wiki/Hongo
+Coles,---,---,---,---,/wiki/Col
+Alubias,---,---,---,---,/wiki/Alubia
+Garbanzos,---,---,---,---,/wiki/Garbanzo
+Lentejas,---,---,---,---,/wiki/Lenteja
+Soja,---,---,---,---,/wiki/Soja
+Pimientas,---,---,---,---,/wiki/Pimienta
+Patata,---,---,---,---,/wiki/Patata
+Lechugas,---,---,---,---,/wiki/Lechuga
+Acelga,---,---,---,---,/wiki/Acelga
+Alcachofa,---,---,---,---,/wiki/Alcachofa
+Batata,---,---,---,---,/wiki/Batata
+Berenjena,---,---,---,---,/wiki/Berenjena
+Berro,---,---,---,---,/wiki/Berro
+Brócoli,---,---,---,---,/wiki/Br%C3%B3coli
+Brecol,---,---,---,---,/wiki/Brecol
+Calabacín,---,---,---,---,/wiki/Calabac%C3%ADn
+Calabaza,---,---,---,---,/wiki/Calabaza
+Cardo,---,---,---,---,/wiki/Cardo
+Cebolla,---,---,---,---,/wiki/Cebolla
+Cebolla caramelizada,---,---,---,---,/wiki/Cebolla_caramelizada
+Cebolleta,---,---,---,---,/wiki/Cebolleta
+Coles de Bruselas,---,---,---,---,/wiki/Coles_de_Bruselas
+Coliflor,---,---,---,---,/wiki/Coliflor
+Endivia,---,---,---,---,/wiki/Endivia
+Tomate,---,---,---,---,/wiki/Tomate
+Zanahoria,---,---,---,---,/wiki/Zanahoria
+Escarola,---,---,---,---,/wiki/Escarola
+Espárrago,---,---,---,---,/wiki/Esp%C3%A1rrago
+Espinaca,---,---,---,---,/wiki/Espinaca
+Guisante,---,---,---,---,/wiki/Guisante
+Habas,---,---,---,---,/wiki/Habas
+Habichuelas,---,---,---,---,/wiki/Habichuelas
+Hinojo,---,---,---,---,/wiki/Hinojo
+Judías,---,---,---,---,/wiki/Jud%C3%ADas
+Maíz,---,---,---,---,/wiki/Ma%C3%ADz
+Palmito,---,---,---,---,/wiki/Palmito_(alimentaci%C3%B3n)
+Pepino,---,---,---,---,/wiki/Pepino
+Pimiento,---,---,---,---,/wiki/Pimiento
+Puerro,---,---,---,---,/wiki/Puerro
+Remolacha,---,---,---,---,/wiki/Remolacha
+Albaricoque,---,---,---,---,/wiki/Prunus_armeniaca
+Caquis,---,---,---,---,/wiki/Caqui
+Aguacate,---,---,---,---,/wiki/Aguacate
+Cereza,---,---,---,---,/wiki/Cereza
+Mango,---,---,---,---,/wiki/Mangifera_indica
+Melocotones,---,---,---,---,/wiki/Melocoton
+Nectarina,---,---,---,---,/wiki/Nectarina
+Ciruela,---,---,---,---,/wiki/Ciruela
+Fruta del bosque,---,---,---,---,/wiki/Fruta_del_bosque
+Frutos secos,---,---,---,---,/wiki/Frutos_secos
+Membrillo,---,---,---,---,/wiki/Membrillo
+Peras,---,---,---,---,/wiki/Pera
+Manzanas,---,---,---,---,/wiki/Manzana
+Uvas,---,---,---,---,/wiki/Uva
+Fruta seca,---,---,---,---,/wiki/Fruta_seca
+Frambuesa,---,---,---,---,/wiki/Frambuesa
+Fresa,---,---,---,---,/wiki/Fresa
+Granada,---,---,---,---,/wiki/Granada
+Higos,---,---,---,---,/wiki/Higo
+Kiwi,---,---,---,---,/wiki/Actinidia_deliciosa
+Limón,---,---,---,---,/wiki/Lim%C3%B3n
+Mandarina,---,---,---,---,/wiki/Mandarina
+Melón,---,---,---,---,/wiki/Mel%C3%B3n
+Naranja,---,---,---,---,/wiki/Naranja
+Piña,---,---,---,---,/wiki/Pi%C3%B1a_(fruta)
+Plátano,---,---,---,---,/wiki/Pl%C3%A1tano
+Pomelo,---,---,---,---,/wiki/Pomelo
+Sandía,---,---,---,---,/wiki/Sand%C3%ADa
+Cereales,---,---,---,---,/wiki/Cereal
+Harinas,---,---,---,---,/wiki/Harina
+Panes,---,---,---,---,/wiki/Pan
+Arroz,---,---,---,---,/wiki/Arroz
+Pasta,---,---,---,---,/wiki/Pasta
+Atún,---,---,---,---,/wiki/At%C3%BAn
+Anchoa,---,---,---,---,/wiki/Anchoa
+Bacalao,---,---,---,---,/wiki/Bacalao
+Besugo,---,---,---,---,/wiki/Besugo
+Bonito,---,---,---,---,/wiki/Bonito
+Boquerón,---,---,---,---,/wiki/Boquer%C3%B3n_(pez)
+Caballa,---,---,---,---,/wiki/Caballa
+Chicharro,---,---,---,---,/wiki/Trachurus_trachurus
+Corvina,---,---,---,---,/wiki/Corvina
+Dorada,---,---,---,---,/wiki/Sparus_aurata
+Lenguado,---,---,---,---,/wiki/Lenguado
+Lubina,---,---,---,---,/wiki/Lubina
+Merluza,---,---,---,---,/wiki/Merluza
+Mero,---,---,---,---,/wiki/Mero
+Palometa,---,---,---,---,/wiki/Palometa
+Pejerrey,---,---,---,---,/wiki/Pejerrey
+Rape,---,---,---,---,/wiki/Rape
+Rodaballo,---,---,---,---,/wiki/Rodaballo
+Salmón,---,---,---,---,/wiki/Salm%C3%B3n
+Sardina,---,---,---,---,/wiki/Sardina
+Trucha,---,---,---,---,/wiki/Trucha
+Camarón,---,---,---,---,/wiki/Camar%C3%B3n
+Cigala,---,---,---,---,/wiki/Cigala
+Gamba,---,---,---,---,/wiki/Gamba
+Langostino,---,---,---,---,/wiki/Langostino
+Percebe,---,---,---,---,/wiki/Percebe
+Almeja,---,---,---,---,/wiki/Almeja
+Calamar,---,---,---,---,/wiki/Calamar_(gastronom%C3%ADa)
+Mejillón,---,---,---,---,/wiki/Mejill%C3%B3n
+Ostra,---,---,---,---,/wiki/Ostra
+Pulpo,---,---,---,---,/wiki/Pulpo
+Sepia,---,---,---,---,/wiki/Sepia
+Vieira,---,---,---,---,/wiki/Vieira
+Cordero,---,---,---,---,/wiki/Cordero
+Ovejas,---,---,---,---,/wiki/Oveja
+Ternera,---,---,---,---,/wiki/Ternera
+Buey,---,---,---,---,/wiki/Buey
+Caballo,---,---,---,---,/wiki/Caballo
+Cabra,---,---,---,---,/wiki/Cabra
+Cerdo,---,---,---,---,/wiki/Cerdo
+Vaca,---,---,---,---,/wiki/Vaca
+Avestruz,---,---,---,---,/wiki/Avestruz
+Paloma,---,---,---,---,/wiki/Paloma
+Perdiz,---,---,---,---,/wiki/Perdiz
+Patos,---,---,---,---,/wiki/Pato
+Pavos,---,---,---,---,/wiki/Pavo
+Ocas,---,---,---,---,/wiki/Anser_anser
+Gallinas,---,---,---,---,/wiki/Gallina
+Pollo,---,---,---,---,/wiki/Pollo
+capones,---,---,---,---,/wiki/Cap%C3%B3n
+Bison,---,---,---,---,/wiki/Bison
+Conejo,---,---,---,---,/wiki/Conejo
+Liebre,---,---,---,---,/wiki/Liebre
+Oso,---,---,---,---,/wiki/Ursidae
+Ciervo,---,---,---,---,/wiki/Ciervo
+Jabalí,---,---,---,---,/wiki/Jabal%C3%AD
+Patos,---,---,---,---,/wiki/Pato
+Faisanes,---,---,---,---,/wiki/Faisan
+Ancas de rana,---,---,---,---,/wiki/Ancas_de_rana
+Caracoles,---,---,---,---,/wiki/Caracol
+Alcoholes fuertes,---,---,---,---,---
+Cervezas,---,---,---,---,/wiki/Cerveza
+Sidras,---,---,---,---,/wiki/Sidra
+Licores,---,---,---,---,/wiki/Licor
+Vino blanco,---,---,---,---,/wiki/Vino_blanco
+Vino caliente,---,---,---,---,/wiki/Vino_caliente
+Vino tinto,---,---,---,---,/wiki/Vino_tinto
+Vino rosado,---,---,---,---,/wiki/Vino_rosado
+Vino dulce,---,---,---,---,/wiki/Vino_dulce
+Whisky,---,---,---,---,/wiki/Whisky
+Cafés,---,---,---,---,/wiki/Caf%C3%A9
+Cola,---,---,---,---,/wiki/Cola
+Agua,---,---,---,---,/wiki/Agua
+Agua mineral,---,---,---,---,/wiki/Agua_mineral
+Agua gaseosa,---,---,---,---,/wiki/Agua_carbonatada
+Zumo,---,---,---,---,/wiki/Zumo
+Tés,---,---,---,---,/wiki/T%C3%A9
+Horchata,---,---,---,---,/wiki/Horchata
+Cerveza sin alcohol,---,---,---,---,/wiki/Cerveza_sin_alcohol

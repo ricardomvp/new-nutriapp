@@ -1,0 +1,272 @@
+name,e-number,toxicity,origin,clasif,link
+Curcumina,E-100,No nocivo,Vegetal,Colorante,/E-100
+Riboflavina,E-101,No nocivo,Animal,Colorante,/E-101
+Tartracina/ Tartrazina/ Tartrazine/ Amarillo 5/ Yellow 5,E-102,¡Peligroso!,Químico o sintético,Colorante,/E-102
+Amarillo quinoleina/ quinoline yellow,E-104,¡Peligroso!,Químico o sintético,Colorante,/E-104
+Lactoflavina,E-106,No nocivo,Indeterminado,Colorante,/E-106
+Amarillo naranja/ sunset yellow,E-110,¡Peligroso!,Químico o sintético,Colorante,/E-110
+Cochinilla,E-120,¡Peligroso!,Animal,Colorante,/E-120
+Azorrubina/ Carmoisina/ Carmoisine/ Red 3/ Azorubina S/ Brillantcarmoisin O/ Acid Red 14/ C.I. 14720,E-122,¡Peligroso!,Químico o sintético,Colorante,/E-122
+Amaranto,E-123,¡Peligroso!,Químico o sintético,Colorante,/E-123
+Ponceau 4R,E-124,¡Peligroso!,Químico o sintético,Colorante,/E-124
+Eritrosina,E-127,¡Peligroso!,Químico o sintético,Colorante,/E-127
+Rojo 2G,E-128,¡Peligroso!,Químico o sintético,Colorante,/E-128
+Rojo allura AC/ allura red,E-129,¡Peligroso!,Químico o sintético,Colorante,/E-129
+Azul patentado,E-131,¡Peligroso!,Químico o sintético,Colorante,/E-131
+Indigotina,E-132,No nocivo,Químico o sintético,Colorante,/E-132
+Azul,E-133,Sospechoso,Químico o sintético,Colorante,/E-133
+Clorofilas,E-140,No nocivo,Vegetal,Colorante,/E-140
+Compuesto de clorofila,E-141,Sospechoso,Químico o sintético,Colorante,/E-141
+Verde ácido,E-142,¡Peligroso!,Químico o sintético,Colorante,/E-142
+Caramelo,E-150,Sospechoso,Indeterminado,Colorante,/E-150
+Negro brillante,E-151,¡Peligroso!,Químico o sintético,Colorante,/E-151
+Carbón vegetal o animal,E-153,Sospechoso,Indeterminado,Colorante,/E-153
+Marrón FK,E-154,¡Peligroso!,Químico o sintético,Colorante,/E-154
+Marrón HT,E-155,¡Peligroso!,Químico o sintético,Colorante,/E-155
+Carotenoides,E-160,No nocivo,Químico o sintético,Colorante,/E-160
+Xantofilas,E-161,No nocivo,Químico o sintético,Colorante,/E-161
+Betanina,E-162,No nocivo,Químico o sintético,Colorante,/E-162
+Antocianinas,E-163,No nocivo,Vegetal,Colorante,/E-163
+Carbonato de calcio/ Carbonato cálcico/ Carbonato Ca,E-170,No nocivo,Químico o sintético,Colorante,/E-170
+Dióxido de Titanio,E-171,Sospechoso,Químico o sintético,Colorante,/E-171
+Óxido de hierro/ Óxido de Fe,E-172,No nocivo,Químico o sintético,Colorante,/E-172
+Aluminio,E-173,Sospechoso,Químico o sintético,Colorante,/E-173
+Plata,E-174,Sospechoso,Químico o sintético,Colorante,/E-174
+Oro,E-175,Sospechoso,Químico o sintético,Colorante,/E-175
+Pigmento rojo,E-180,¡Peligroso!,Químico o sintético,Colorante,/E-180
+Ácido sórbico,E-200,No nocivo,Químico o sintético,Conservante,/E-200
+Sorbato de sodio/ Sorbato sódico/ Sorbato de Na,E-201,No nocivo,Químico o sintético,Conservante,/E-201
+Sorbato de potasio/ Sorbato potásico/ Sorbato de K/ Sal de potasio del ácido sórbico,E-202,Sospechoso,Químico o sintético,Conservante,/E-202
+Sorbato de calcio/ Sorbato cálcico/ Sorbato Ca,E-203,No nocivo,Químico o sintético,Conservante,/E-203
+Ácido benzoico,E-210,¡Peligroso!,Químico o sintético,Conservante,/E-210
+Benzoato de sodio/ Benzoato sódico/ Benzoato Na,E-211,¡Peligroso!,Químico o sintético,Conservante,/E-211
+Benzoato de potasio/ Benzoato potásico/ Benzoato K,E-212,¡Peligroso!,Químico o sintético,Conservante,/E-212
+Benzoato de calcio/ Benzoato cálcico/ Benzoato Ca,E-213,¡Peligroso!,Químico o sintético,Conservante,/E-213
+P-Hidroxilo Etilo,E-214,¡Peligroso!,Químico o sintético,Conservante,/E-214
+Derivado H.E.,E-215,¡Peligroso!,Químico o sintético,Conservante,/E-215
+Hidroxilo Propilo,E-216,¡Peligroso!,Químico o sintético,Conservante,/E-216
+Derivado H.P.,E-217,¡Peligroso!,Químico o sintético,Conservante,/E-217
+Hidroxilo Metilo,E-218,¡Peligroso!,Químico o sintético,Conservante,/E-218
+Hidróxido M. de Na,E-219,¡Peligroso!,Químico o sintético,Conservante,/E-219
+Anhídrido sulfuroso/ Dióxido de azufre/ Óxido de azufre (IV),E-220,¡Peligroso!,Químico o sintético,Conservante,/E-220
+Sulfito de sodio/ Sulfito sódico/ Sulfito de Na,E-221,Sospechoso,Químico o sintético,Conservante,/E-221
+Bisulfito de sodio/ Bisulfito sódico/ Bisulfito de Na,E-222,Sospechoso,Químico o sintético,Conservante,/E-222
+Disulfito de sodio/ Disulfito sódico/ Disulfito de Na,E-223,Sospechoso,Químico o sintético,Conservante,/E-223
+Bisulfito de potasio/ Bisulfito de K/ Disulfito de K/ Metabisulfito potásico,E-224,Sospechoso,Químico o sintético,Conservante,/E-224
+Disulfito de calcio/ Disulfito cálcico/ Disulfito Ca,E-225,Sospechoso,Químico o sintético,Conservante,/E-225
+Sulfito de calcio/ Sulfito cálcico/ Sulfito de Ca,E-226,Sospechoso,Químico o sintético,Conservante,/E-226
+Bisulfito de calcio/ Bisulfito cálcico/ Bisulfito de Ca,E-227,Sospechoso,Químico o sintético,Conservante,/E-227
+Sulfito ácido de potasio/ Bisulfito de potasio,E-228,¡Peligroso!,Químico o sintético,Conservante,/E-228
+Difenilo,E-230,¡Peligroso!,Químico o sintético,Conservante,/E-230
+O-fenifenol,E-231,¡Peligroso!,Químico o sintético,Conservante,/E-231
+O-fenilfenolato,E-232,¡Peligroso!,Químico o sintético,Conservante,/E-232
+Tiabendazol,E-233,¡Peligroso!,Químico o sintético,Conservante,/E-233
+Nisina,E-234,No nocivo,Químico o sintético,Conservante,/E-234
+Natamicina,E-235,Sospechoso,Químico o sintético,Conservante,/E-235
+Ácido fórmico,E-236,¡Peligroso!,Químico o sintético,Conservante,/E-236
+Formiato de sodio/ Formiato sódico/ Formiato Na,E-237,¡Peligroso!,Químico o sintético,Conservante,/E-237
+Formiato de calcio/ Formiato cálcico/ Formiato Ca,E-238,¡Peligroso!,Químico o sintético,Conservante,/E-238
+Hexametileno/ Hexametilentetramina/ Hexamina/ Urotropina/ Formamina/ HMTA/ Hexaformo/ Metenamina,E-239,¡Peligroso!,Químico o sintético,Conservante,/E-239
+Ácido bórico,E-240,¡Peligroso!,Químico o sintético,Conservante,/E-240
+Tetraborato de potasio/ Tetraborato potásico/ Tetraborato K,E-241,¡Peligroso!,Químico o sintético,Conservante,/E-241
+Dimetil dicar.,E-242,Sospechoso,Químico o sintético,Conservante,/E-242
+Etil Lauroil Arginato,E-243,No nocivo,Químico o sintético,Conservante,/E-243
+Nitrito de potasio/ Nitrito potásico/ Nitrito de K,E-249,¡Peligroso!,Químico o sintético,Conservante,/E-249
+Nitrito de sodio/ Nitrito sódico/ Nitrito de Na,E-250,¡Peligroso!,Químico o sintético,Conservante,/E-250
+Nitrato de sodio/ Nitrato sódico/ Nitrato de Na,E-251,¡Peligroso!,Químico o sintético,Conservante,/E-251
+Nitrato de potasio/ Nitrato potásico/ Nitrato de K,E-252,¡Peligroso!,Químico o sintético,Conservante,/E-252
+Ácido acético,E-260,No nocivo,Químico o sintético,Conservante,/E-260
+Acetato de potasio/ Acetato potásico/ Acetato de K,E-261,No nocivo,Químico o sintético,Conservante,/E-261
+Diacetato de sodio/ Diacetato sódico/ Diacetato Na,E-262,No nocivo,Químico o sintético,Conservante,/E-262
+Acetato de calcio/ Acetato cálcico/ Acetato Ca,E-263,No nocivo,Químico o sintético,Conservante,/E-263
+Ácido láctico,E-270,No nocivo,Químico o sintético,Conservante,/E-270
+Ácido propilo,E-280,No nocivo,Químico o sintético,Conservante,/E-280
+Propionato de sodio/ Propionato sódico/ Propionato Na,E-281,No nocivo,Químico o sintético,Conservante,/E-281
+Propilo de calcio/ Propilo cálcico/ Propilo Ca,E-282,No nocivo,Químico o sintético,Conservante,/E-282
+Propionato de potasio/ Propionato potásico/ Propionato de K,E-283,No nocivo,Químico o sintético,Conservante,/E-283
+Ácido bórico,E-284,¡Peligroso!,Químico o sintético,Conservante,/E-284
+Tetraborato de potasio/ Tetraborato potásico/ Tetraborato K,E-285,¡Peligroso!,Químico o sintético,Conservante,/E-285
+Dióxido de carbono/ Anhídrido carbónico/ Gas carbónico,E-290,No nocivo,Químico o sintético,Conservante,/E-290
+Ácido málico,E-296,Sospechoso,Químico o sintético,Conservante,/E-296
+Ácido fumárico,E-297,Sospechoso,Químico o sintético,Conservante,/E-297
+Ácido ascórbico,E-300,No nocivo,Químico o sintético,Antioxidante,/E-300
+Ascorbato de sodio/ Ascorbato sódico/ Ascorbato de Na,E-301,No nocivo,Químico o sintético,Antioxidante,/E-301
+Ascorbato de calcio/ Ascorbato cálcico/ Ascorbato Ca,E-302,No nocivo,Químico o sintético,Antioxidante,/E-302
+Diácido ascórbico,E-303,No nocivo,Químico o sintético,Antioxidante,/E-303
+Palmitato Ascorbilo,E-304,No nocivo,Químico o sintético,Antioxidante,/E-304
+Extracción Vegetal,E-306,No nocivo,Vegetal,Antioxidante,/E-306
+Alfa-Tocoferol,E-307,No nocivo,Químico o sintético,Antioxidante,/E-307
+Gamma-Tocoferol,E-308,No nocivo,Químico o sintético,Antioxidante,/E-308
+Delta-Tocoferol,E-309,No nocivo,Químico o sintético,Antioxidante,/E-309
+Galato de Propílico,E-310,Sospechoso,Químico o sintético,Antioxidante,/E-310
+Galato de octilo/ Gelato de octilo,E-311,¡Peligroso!,Químico o sintético,Antioxidante,/E-311
+Galato dodecilo/ Gelato dodecilo/ Galato de laurilo,E-312,No nocivo,Químico o sintético,Antioxidante,/E-312
+Ácido eritórbico,E-315,Sospechoso,Químico o sintético,Antioxidante,/E-315
+Eritorbato de sodio/ Eritorbato sódico/ Eritorbato Na,E-316,Sospechoso,Químico o sintético,Antioxidante,/E-316
+Butilhidroxianisol/ Hidroxianisol butilado,E-320,¡Peligroso!,Químico o sintético,Antioxidante,/E-320
+Butil hidroxitolueno/ BHT,E-321,¡Peligroso!,Químico o sintético,Antioxidante,/E-321
+Lecitina-N,E-322,No nocivo,Químico o sintético,Antioxidante,/E-322
+Lactato de sodio/ Lactato sódico/ Lactato de Na,E-325,No nocivo,Indeterminado,Antioxidante,/E-325
+Lactato de potasio/ Lactato potásico/ Lactato de K,E-326,No nocivo,Indeterminado,Antioxidante,/E-326
+Lactato de calcio/ Lactato cálcico/ Lactato Ca,E-327,No nocivo,Indeterminado,Antioxidante,/E-327
+Ácido cítrico,E-330,Sospechoso,Químico o sintético,Antioxidante,/E-330
+Citrato de sodio/ Citrato sódico/ Citrato de Na,E-331,Sospechoso,Químico o sintético,Antioxidante,/E-331
+Citrato de potasio/ Citrato potásico/ Citrato de K,E-332,Sospechoso,Químico o sintético,Antioxidante,/E-332
+citrato de calcio/ Citrato cálcico/ Citrato Ca,E-333,Sospechoso,Químico o sintético,Antioxidante,/E-333
+Ácido tartárico,E-334,No nocivo,Químico o sintético,Antioxidante,/E-334
+Tartrato de sodio/ Tartrato sódico/ Tartrato de Na,E-335,No nocivo,Químico o sintético,Antioxidante,/E-335
+Tartrato de potasio/ Tartrato potásico/ Tartrato de K,E-336,No nocivo,Químico o sintético,Antioxidante,/E-336
+Tartrato...,E-337,No nocivo,Químico o sintético,Antioxidante,/E-337
+Ácido ortofosfórico,E-338,Sospechoso,Químico o sintético,Antioxidante,/E-338
+Sales ortofosfóricas,E-339,Sospechoso,Químico o sintético,Antioxidante,/E-339
+Sales ortofosfóricas,E-340,Sospechoso,Químico o sintético,Antioxidante,/E-340
+Ácido ortofosfórico,E-341,No nocivo,Químico o sintético,Antioxidante,/E-341
+Citrato triamónico,E-380,¡Peligroso!,Químico o sintético,Antioxidante,/E-380
+EDTA/ Ácido etilendiaminotetraacético/ Etilenodiamino tetracetato cálcico disódico/ Tetra acetato disódico de etilendiamina,E-385,¡Peligroso!,Químico o sintético,Antioxidante,/E-385
+Ácido algínico,E-400,No nocivo,Vegetal,Estabilizante,/E-400
+Alginato de sodio/ Alginato sódico/ Alginato de Na,E-401,No nocivo,Indeterminado,Estabilizante,/E-401
+Alginato de potasio/ Alginato potásico/ Alginato de K,E-402,No nocivo,Indeterminado,Estabilizante,/E-402
+Alginato...,E-403,No nocivo,Indeterminado,Estabilizante,/E-403
+Alginato de calcio/ Alginato cálcico/ Alginato de Ca,E-404,No nocivo,Indeterminado,Estabilizante,/E-404
+Alginato de propilenglicol/ Alginato de propilenoglicol/ PGA,E-405,No nocivo,Indeterminado,Estabilizante,/E-405
+Agar-Agar,E-406,No nocivo,Indeterminado,Estabilizante,/E-406
+Carragenato/ Carragenano/ Carragenina,E-407,¡Peligroso!,Indeterminado,Estabilizante,/E-407
+Furcelerán,E-408,No nocivo,Indeterminado,Estabilizante,/E-408
+Goma garrofin,E-410,No nocivo,Indeterminado,Estabilizante,/E-410
+Harina tamari,E-411,No nocivo,Indeterminado,Estabilizante,/E-411
+Goma guar,E-412,No nocivo,Indeterminado,Estabilizante,/E-412
+Goma tragácica,E-413,No nocivo,Indeterminado,Estabilizante,/E-413
+Goma arábica,E-414,No nocivo,Indeterminado,Estabilizante,/E-414
+Goma xantana/ Xantano,E-415,Sospechoso,Vegetal,Estabilizante,/E-415
+Goma K.,E-416,No nocivo,Indeterminado,Estabilizante,/E-416
+Goma tara,E-417,No nocivo,Indeterminado,Estabilizante,/E-417
+Goma gellan,E-418,No nocivo,Indeterminado,Estabilizante,/E-418
+Sorbitol,E-420,No nocivo,Químico o sintético,Edulcorante,/E-420
+Manitol,E-421,No nocivo,Químico o sintético,Edulcorante,/E-421
+Glicerina,E-422,No nocivo,Químico o sintético,Estabilizante,/E-422
+Sorbitan,E-431,Sospechoso,Químico o sintético,Estabilizante,/E-431
+Sorbitan,E-436,Sospechoso,Químico o sintético,Estabilizante,/E-436
+Pectina,E-440,No nocivo,Vegetal,Estabilizante,/E-440
+Pectinas,E-440a,No nocivo,Vegetal,Estabilizante,/E-440a
+Pectina amidada,E-440b,Sospechoso,Indeterminado,Estabilizante,/E-440b
+Fosfátidos...,E-442,Sospechoso,Químico o sintético,Estabilizante,/E-442
+Acetato isobutírico,E-444,Sospechoso,Químico o sintético,Estabilizante,/E-444
+Éter glicólico,E-445,Sospechoso,Químico o sintético,Estabilizante,/E-445
+Difosfatos,E-450,¡Peligroso!,Químico o sintético,Estabilizante,/E-450
+Difosfatos disódicos pirofosfatos,E-450a,¡Peligroso!,Químico o sintético,Estabilizante,/E-450a
+Trifosfatos,E-451,¡Peligroso!,Químico o sintético,Estabilizante,/E-451
+Polifosfatos,E-452,¡Peligroso!,Químico o sintético,Estabilizante,/E-452
+Celulosa,E-460,No nocivo,Químico o sintético,Estabilizante,/E-460
+Metil celulosa,E-461,No nocivo,Indeterminado,Estabilizante,/E-461
+Etilcelulosa,E-462,No nocivo,Químico o sintético,Estabilizante,/E-462
+Hidroxiprolina,E-463,Sospechoso,Químico o sintético,Estabilizante,/E-463
+Hidroxi...,E-464,No nocivo,Químico o sintético,Estabilizante,/E-464
+Metiletilcelulosa,E-465,No nocivo,Químico o sintético,Estabilizante,/E-465
+Carboximetilcelulosa de Sodio,E-466,Sospechoso,Químico o sintético,Estabilizante,/E-466
+Sales de Ácidos Grasos,E-470,Sospechoso,Químico o sintético,Estabilizante,/E-470
+Sales de magnesio de Ácidos Grasos,E-470b,Sospechoso,Químico o sintético,Estabilizante,/E-470b
+Mono y Diglicéridos de Ácidos Grasos,E-471,Sospechoso,Químico o sintético,Estabilizante,/E-471
+Ésteres de Ácidos Grasos,E-472,Sospechoso,Químico o sintético,Estabilizante,/E-472
+Sucroésteres de Ácidos Grasos,E-473,Sospechoso,Químico o sintético,Estabilizante,/E-473
+Sucroglicéridos de Ácidos Grasos,E-474,Sospechoso,Químico o sintético,Estabilizante,/E-474
+Ésteres de Ácidos Grasos,E-475,Sospechoso,Químico o sintético,Estabilizante,/E-475
+Polirricinoleato de Ácidos Grasos,E-476,Sospechoso,Químico o sintético,Estabilizante,/E-476
+Ésteres propano de Ácidos Grasos,E-477,Sospechoso,Químico o sintético,Estabilizante,/E-477
+Lacatato de Ácidos Grasos,E-478,Sospechoso,Químico o sintético,Estabilizante,/E-478
+Aceite soja oxid.,E-479,Sospechoso,Químico o sintético,Estabilizante,/E-479
+Ácido estérico,E-480,Sospechoso,Químico o sintético,Estabilizante,/E-480
+Stearoil-2-lactato,E-481,Sospechoso,Químico o sintético,Estabilizante,/E-481
+Stearoil-2-lactato/ Calcio lactato,E-482,Sospechoso,Químico o sintético,Estabilizante,/E-482
+Tartrato de Sterato/ Tartrato esteárico,E-483,Sospechoso,Químico o sintético,Estabilizante,/E-483
+Spans/ Sorbitanos,E-491,Sospechoso,Químico o sintético,Estabilizante,/E-491
+Triestearato de Sorbitán,E-492,¡Peligroso!,Indeterminado,Estabilizante,/E-492
+Spans,E-495,Sospechoso,Químico o sintético,Estabilizante,/E-495
+Carbonato Na,E-500,No nocivo,Químico o sintético,Estabilizante,/E-500
+Carbonatos Ca,E-501,No nocivo,Químico o sintético,Estabilizante,/E-501
+Carbonato Amo.,E-503,No nocivo,Químico o sintético,Estabilizante,/E-503
+Carbonatos Mg,E-504,No nocivo,Químico o sintético,Estabilizante,/E-504
+Ácido Clorhídrico,E-507,Sospechoso,Químico o sintético,Estabilizante,/E-507
+Cloruro K,E-508,No nocivo,Químico o sintético,Estabilizante,/E-508
+Cloruro Ca,E-509,Sospechoso,Químico o sintético,Estabilizante,/E-509
+Cloruro Mg,E-511,No nocivo,Químico o sintético,Estabilizante,/E-511
+Ácido Sulfúrico,E-513,Sospechoso,Químico o sintético,Estabilizante,/E-513
+Sulfatos,E-514,Sospechoso,Químico o sintético,Estabilizante,/E-514
+Sulfatos,E-523,Sospechoso,Químico o sintético,Estabilizante,/E-523
+Hidróx. de sales,E-524,No nocivo,Químico o sintético,Estabilizante,/E-524
+Hidróx. de sales,E-528,No nocivo,Químico o sintético,Estabilizante,/E-528
+Óxido de Ca,E-529,No nocivo,Químico o sintético,Estabilizante,/E-529
+Óxido Mg,E-530,No nocivo,Químico o sintético,Estabilizante,/E-530
+Ferrocian. sales,E-535,Sospechoso,Químico o sintético,Estabilizante,/E-535
+Ferrocian. sales,E-536,Sospechoso,Químico o sintético,Estabilizante,/E-536
+Fosfato ácido,E-541,Sospechoso,Químico o sintético,Estabilizante,/E-541
+Fosfato óseo,E-542,No nocivo,Animal,Estabilizante,/E-542
+Dióxido Silicio,E-551,No nocivo,Químico o sintético,Estabilizante,/E-551
+Silicato cálcico,E-552,No nocivo,Químico o sintético,Estabilizante,/E-552
+Talco,E-553,No nocivo,Químico o sintético,Estabilizante,/E-553
+Silicatos,E-554,No nocivo,Químico o sintético,Estabilizante,/E-554
+Silicatos,E-556,No nocivo,Químico o sintético,Estabilizante,/E-556
+Bentonita,E-558,Sospechoso,Químico o sintético,Estabilizante,/E-558
+Silicato de Aluminio,E-559,Sospechoso,Químico o sintético,Estabilizante,/E-559
+Ácidos grasos,E-570,Sospechoso,Indeterminado,Estabilizante,/E-570
+Esterato Mg,E-572,No nocivo,Químico o sintético,Estabilizante,/E-572
+Ácido glucónico,E-574,Sospechoso,Químico o sintético,Estabilizante,/E-574
+Glucono-delto-...,E-575,Sospechoso,Químico o sintético,Estabilizante,/E-575
+Glucon...,E-576,No nocivo,Químico o sintético,Estabilizante,/E-576
+Glucon...,E-579,No nocivo,Químico o sintético,Estabilizante,/E-579
+Lactato ferroso,E-585,No nocivo,Químico o sintético,Estabilizante,/E-585
+Ácido glucónico,E-620,Sospechoso,Químico o sintético,Saborizante,/E-620
+Glutamatos,E-621,¡Peligroso!,Químico o sintético,Saborizante,/E-621
+Glutamatos,E-625,¡Peligroso!,Químico o sintético,Saborizante,/E-625
+Guanilatos,E-626,Sospechoso,Químico o sintético,Saborizante,/E-626
+Guanilato sódico,E-627,Sospechoso,Químico o sintético,Saborizante,/E-627
+Guanilatos,E-629,Sospechoso,Químico o sintético,Saborizante,/E-629
+Inosinatos,E-630,Sospechoso,Químico o sintético,Saborizante,/E-630
+Inosinato de sodio 5,E-631,Sospechoso,Animal,Saborizante,/E-631
+Inosinatos,E-633,Sospechoso,Químico o sintético,Saborizante,/E-633
+Ribonucleótidos discódicos,E-634,¡Peligroso!,Químico o sintético,Saborizante,/E-634
+Ribonucleótidos discódicos,E-635,¡Peligroso!,Químico o sintético,Saborizante,/E-635
+Maltol,E-636,Sospechoso,Indeterminado,Saborizante,/E-636
+Etil-maltol,E-637,Sospechoso,Químico o sintético,Saborizante,/E-637
+Glicina y su sal,E-640,Sospechoso,Químico o sintético,Saborizante,/E-640
+Dimetilpolixi...,E-900,Sospechoso,Químico o sintético,Estabilizante,/E-900
+Ceras,E-901,No nocivo,Animal,Estabilizante,/E-901
+Ceras,E-903,No nocivo,Indeterminado,Estabilizante,/E-903
+Goma laca,E-904,Sospechoso,Animal,Estabilizante,/E-904
+Ésteres...,E-912,Sospechoso,Químico o sintético,Estabilizante,/E-912
+Lanolina,E-913,¡Peligroso!,Animal,Estabilizante,/E-913
+Cera polietileno,E-914,Sospechoso,Químico o sintético,Estabilizante,/E-914
+L-Cisteína,E-920,No nocivo,Animal,Estabilizante,/E-920
+L-Cisteína,E-921,No nocivo,Animal,Estabilizante,/E-921
+Carbamida,E-927,Sospechoso,Químico o sintético,Estabilizante,/E-927
+Acesulfamo potásico,E-950,Sospechoso,Químico o sintético,Edulcorante,/E-950
+Aspartamo (Fenilalanina),E-951,¡Peligroso!,Químico o sintético,Edulcorante,/E-951
+Ciclamatos,E-952,¡Peligroso!,Químico o sintético,Edulcorante,/E-952
+Isolmaltitol,E-953,Sospechoso,Químico o sintético,Edulcorante,/E-953
+Sacarina,E-954,Sospechoso,Químico o sintético,Edulcorante,/E-954
+Sucralosa,E-955,Sospechoso,Químico o sintético,Edulcorante,/E-955
+Taumatina,E-957,Sospechoso,Indeterminado,Edulcorante,/E-957
+Neohesperidina DC,E-959,Sospechoso,Químico o sintético,Edulcorante,/E-959
+Glicósidos de esteviol/ Esteviósido/ Extracto de Stevia,E-960,No nocivo,Vegetal,Edulcorante,/E-960
+Maltitol,E-965,Sospechoso,Químico o sintético,Edulcorante,/E-965
+Lactitol,E-966,Sospechoso,Químico o sintético,Edulcorante,/E-966
+Xilitol,E-967,Sospechoso,Químico o sintético,Edulcorante,/E-967
+Eritritol,E-968,No nocivo,Químico o sintético,Edulcorante,/E-968
+Ácido cólico,E-1000,¡Peligroso!,Animal,Estabilizante,/E-1000
+Lisozima (Muramidasa),E-1105,Sospechoso,Animal,Conservante,/E-1105
+Polidextrosa,E-1200,Sospechoso,Químico o sintético,Estabilizante,/E-1200
+Dextrina,E-1400,Sospechoso,Químico o sintético,Estabilizante,/E-1400
+Almidón ácido,E-1401,Sospechoso,Químico o sintético,Estabilizante,/E-1401
+Almidón alcalino modificado,E-1402,Sospechoso,Químico o sintético,Estabilizante,/E-1402
+Almidón blanqueado,E-1403,Sospechoso,Químico o sintético,Estabilizante,/E-1403
+Almidón oxidado,E-1404,Sospechoso,Químico o sintético,Estabilizante,/E-1404
+Almidón enzimático,E-1405,Sospechoso,Químico o sintético,Estabilizante,/E-1405
+Fosfato monoalmidón,E-1410,Sospechoso,Químico o sintético,Estabilizante,/E-1410
+Fosfato dialmidón,E-1412,Sospechoso,Químico o sintético,Estabilizante,/E-1412
+Fosfato dialmidón fosfatado,E-1413,Sospechoso,Químico o sintético,Estabilizante,/E-1413
+Fosfato dialmidón acetilado,E-1414,Sospechoso,Químico o sintético,Estabilizante,/E-1414
+Almidón acetilado,E-1420,Sospechoso,Químico o sintético,Estabilizante,/E-1420
+Adipato dialmidón acetilado,E-1422,Sospechoso,Químico o sintético,Estabilizante,/E-1422
+Hidroxipropil almidón,E-1440,Sospechoso,Químico o sintético,Estabilizante,/E-1440
+Fosfato dialmidón hidroxipropilado,E-1442,Sospechoso,Químico o sintético,Estabilizante,/E-1442
+Octenil succinato sódico de almidón,E-1450,Sospechoso,Químico o sintético,Estabilizante,/E-1450
+Gliceril mono/ di y tri-acetato de calcio,E-1518,¡Peligroso!,Químico o sintético,Estabilizante,/E-1518

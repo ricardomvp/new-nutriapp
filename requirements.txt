@@ -1,0 +1,10 @@
+django
+whitenoise
+gunicorn
+boto3
+requests
+dj-database-url
+psycopg2
+psycopg2-binary
+google-cloud-vision==1.0.0
+unidecode

@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Nutri Info</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/main.css' %}">
+  </head>
+  <body>
+    <div class="background">
+      <div class="content">
+        {% block body %}
+
+            {% block navbar %}
+              {% include 'base/navbar.html' %}
+            {% endblock %}
+
+            {% block content %}
+              {% include 'base/home.html' %}
+            {% endblock %}
+
+            {%block footer %}
+              {% include 'base/footer.html' %}
+            {% endblock%}
+
+        {% endblock %}
+      </div>
+    </div>
+
+
+  </body>
+</html>

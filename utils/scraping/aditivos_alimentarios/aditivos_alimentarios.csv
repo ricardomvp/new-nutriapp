@@ -1,0 +1,662 @@
+name,e-number,toxicity,origin,clasif,link
+Curcuminas,E100,Baja,---,---,/2016/01/E100.html
+Curcumina,E100i,Baja,---,---,/2016/01/E100i.html
+Cúrcuma,E100ii,Baja,---,---,/2016/01/E100ii.html
+Riboflavinas,E101,Baja,---,---,/2016/01/E101.html
+Riboflavina,E101i,Baja,---,---,/2016/01/E101i.html
+Fosfato de Riboflavina,E101ii,Baja,---,---,/2016/01/E101ii.html
+Riboflavina de Bacillus Subtilis,E101iii,Baja,---,---,/2016/01/E101iii.html
+Tartrazina,E102,Alta,---,---,/2016/01/E102.html
+Crisoína,E103,Alta,---,---,/2016/01/E103.html
+Amarillo de Quinoleína,E104,Alta,---,---,/2016/01/E104.html
+Amarillo Sólido,E105,Alta,---,---,/2016/01/E105.html
+Amarillo 2G,E107,Alta,---,---,/2016/01/E107.html
+Amarillo Ocaso FCF,E110,Alta,---,---,/2016/01/E110.html
+Naranja GGN,E111,Alta,---,---,/2016/01/E111.html
+Ácido Carmínico,E120,Alta,---,---,/2016/01/E120.html
+Rojo Carmín,E120i,Alta,---,---,/2016/01/E120i.html
+Extracto de Cochinilla,E120ii,Alta,---,---,/2016/01/E120ii.html
+Rojo Cítrico 2,E121,Alta,---,---,/2016/01/E121.html
+Azorrubina,E122,Alta,---,---,/2016/01/E122.html
+Amaranto,E123,Alta,---,---,/2016/01/E123.html
+Ponceau 4R,E124,Alta,---,---,/2016/01/E124.html
+Ponceau SX,E125,Alta,---,---,/2016/01/E125.html
+Ponceau 6R,E126,Alta,---,---,/2016/01/E126.html
+Eritrosina,E127,Alta,---,---,/2016/01/E127.html
+Rojo 2G,E128,Alta,---,---,/2016/01/E128.html
+Rojo Allura AC,E129,Alta,---,---,/2016/01/E129.html
+Azul de Antraquinona,E130,Alta,---,---,/2016/01/E130.html
+Azul Patente V,E131,Alta,---,---,/2016/01/E131.html
+Indigotina,E132,Media,---,---,/2016/01/E132.html
+Azul Brillante FCF,E133,Alta,---,---,/2016/01/E133.html
+Clorofilas y Clorofilinas,E140,Baja,---,---,/2016/01/E140.html
+Clorofila,E140i,Baja,---,---,/2016/01/E140i.html
+Clorofilina,E140ii,Baja,---,---,/2016/01/E140ii.html
+Complejos Cúpricos de Clorofilas y Clorofilinas,E141,Baja,---,---,/2016/01/E141.html
+Complejo Cúprico de Clorofila,E141i,Baja,---,---,/2016/01/E141i.html
+Complejo Cúprico de Clorofilina,E141ii,Baja,---,---,/2016/01/E141ii.html
+Verde S,E142,Alta,---,---,/2016/01/E142.html
+Verde Sólido FCF,E143,Alta,---,---,/2016/01/E143.html
+Caramelos,E150,Media,---,---,/2016/01/E150.html
+Caramelo Cáustico,E150a,Media,---,---,/2016/01/E150a.html
+Caramelo Caústico de Sulfito,E150b,Media,---,---,/2016/01/E150b.html
+Caramelo Amónico,E150c,Media,---,---,/2016/01/E150c.html
+Caramelo Amónico de Sulfito,E150d,Media,---,---,/2016/01/E150d.html
+Negro Brillante BN,E151,Alta,---,---,/2016/01/E151.html
+Negro 7984,E152,Alta,---,---,/2016/01/E152.html
+Carbón Vegetal,E153,Baja,---,---,/2016/01/E153.html
+Marrón FK,E154,Alta,---,---,/2016/01/E154.html
+Marrón HT,E155,Alta,---,---,/2016/01/E155.html
+Carotenos,E160,Baja,---,---,/2016/01/E160.html
+Beta Caroteno,E160a,Baja,---,---,/2016/01/E160a.html
+Annatto/ Bija/ Bixina/ Norbixina,E160b,Baja,---,---,/2016/01/E160b.html
+Extracto de Pimentón/ Capsantina/ Capsorrubina,E160c,Baja,---,---,/2016/01/E160c.html
+Licopeno,E160d,Baja,---,---,/2016/01/E160d.html
+Beta Apocarotenal,E160e,Baja,---,---,/2016/01/E160e.html
+Éster Etílico del Ácido Beta Apocarotenoico,E160f,Baja,---,---,/2016/01/E160f.html
+Xantófilas,E161,Media,---,---,/2016/01/E161.html
+Flavoxantina,E161a,Media,---,---,/2016/01/E161a.html
+Luteína,E161b,Baja,---,---,/2016/01/E161b.html
+Criptoxantina,E161c,Media,---,---,/2016/01/E161c.html
+Rubixantina,E161d,Media,---,---,/2016/01/E161d.html
+Violaxantina,E161e,Media,---,---,/2016/01/E161e.html
+Rodoxantina,E161f,Media,---,---,/2016/01/E161f.html
+Cantaxantina,E161g,Alta,---,---,/2016/01/E161g.html
+Zeaxantina,E161h,Baja,---,---,/2016/01/E161h.html
+Citranaxantina,E161i,- - -,---,---,/2016/01/E161i.html
+Astaxantina,E161j,Baja,---,---,/2016/01/E161j.html
+Betanina,E162,Baja,---,---,/2016/01/E162.html
+Antocianinas,E163,Baja,---,---,/2016/01/E163.html
+Cianidina,E163a,Baja,---,---,/2016/01/E163a.html
+Delfinidina,E163b,Baja,---,---,/2016/01/E163b.html
+Malvidina,E163c,Baja,---,---,/2016/01/E163c.html
+Pelargonidina,E163d,Baja,---,---,/2016/01/E163d.html
+Peonidina,E163e,Baja,---,---,/2016/01/E163e.html
+Petunidina,E163f,Baja,---,---,/2016/01/E163f.html
+Amarillo de Gardenia,E164,- - -,---,---,/2016/01/E164.html
+Azul de Gardenia,E165,Alta,---,---,/2016/01/E165.html
+Madera de Sándalo,E166,- - -,---,---,/2016/01/E166.html
+Carbonatos Cálcicos,E170,Baja,---,---,/2016/01/E170.html
+Carbonato de Calcio,E170i,Baja,---,---,/2016/01/E170i.html
+Bicarbonato de Calcio,E170ii,Baja,---,---,/2016/01/E170ii.html
+Dióxido de Titanio,E171,Alta,---,---,/2016/01/E171.html
+Óxidos e Hidróxidos Férricos,E172,Baja,---,---,/2016/01/E172.html
+Óxido de Hierro Negro,E172i,- - -,---,---,/2016/01/E172i.html
+Óxido de Hierro Rojo,E172ii,- - -,---,---,/2016/01/E172ii.html
+Óxido de Hierro Amarillo,E172iii,- - -,---,---,/2016/01/E172iii.html
+Aluminio Comestible,E173,Alta,---,---,/2016/01/E173.html
+Plata Comestible,E174,Alta,---,---,/2016/01/E174.html
+Oro Comestible,E175,Alta,---,---,/2016/01/E175.html
+Litolrrubina BK,E180,Alta,---,---,/2016/01/E180.html
+Ácido Tánico,E181,- - -,---,---,/2016/01/E181.html
+Orceína,E182,Alta,---,---,/2016/01/E182.html
+Ácido Sórbico,E200,Baja,---,---,/2016/01/E200.html
+Sorbato de Sodio,E201,Baja,---,---,/2016/01/E201.html
+Sorbato de Potasio,E202,Baja,---,---,/2016/01/E202.html
+Sorbato de Calcio,E203,Media,---,---,/2016/01/E203.html
+Ácido Benzoico,E210,Alta,---,---,/2016/01/E210.html
+Benzoato de Sodio,E211,Alta,---,---,/2016/01/E211.html
+Benzoato de Potasio,E212,Alta,---,---,/2016/01/E212.html
+Benzoato de Calcio,E213,Alta,---,---,/2016/01/E213.html
+Etil P-Hidroxibenzoato,E214,Alta,---,---,/2016/01/E214.html
+Etil P-Hidroxibenzoato de Sodio,E215,Alta,---,---,/2016/01/E215.html
+Propil P-Hidroxibenzoato,E216,Alta,---,---,/2016/01/E216.html
+Propil P-Hidroxibenzoato de Sodio,E217,Alta,---,---,/2016/01/E217.html
+Metil P-Hidroxibenzoato,E218,Alta,---,---,/2016/01/E218.html
+Metil P-Hidroxibenzoato de Sodio,E219,Alta,---,---,/2016/01/E219.html
+Dióxido de Azufre,E220,Alta,---,---,/2016/01/E220.html
+Sulfito de Sodio,E221,Alta,---,---,/2016/01/E221.html
+Bisulfito de Sodio,E222,Alta,---,---,/2016/01/E222.html
+Metabisulfito de Sodio,E223,Alta,---,---,/2016/01/E223.html
+Metabisulfito de Potasio,E224,Alta,---,---,/2016/01/E224.html
+Sulfito de Potasio,E225,Alta,---,---,/2016/01/E225.html
+Sulfito de Calcio,E226,Alta,---,---,/2016/01/E226.html
+Bisulfito de Calcio,E227,Alta,---,---,/2016/01/E227.html
+Bisulfito de Potasio,E228,Alta,---,---,/2016/01/E228.html
+Bifenilo,E230,Alta,---,---,/2016/01/E230.html
+Ortofenilfenol,E231,Alta,---,---,/2016/01/E231.html
+Ortofenilfenol de Sodio,E232,Alta,---,---,/2016/01/E232.html
+Tiabendazol,E233,Alta,---,---,/2016/01/E233.html
+Nisina,E234,Baja,---,---,/2016/01/E234.html
+Natamicina,E235,Baja,---,---,/2016/01/E235.html
+Ácido Fórmico,E236,Alta,---,---,/2016/01/E236.html
+Formiato de Sodio,E237,Alta,---,---,/2016/01/E237.html
+Formiato de Calcio,E238,Alta,---,---,/2016/01/E238.html
+Hexametilentetramina/ HMTA,E239,Alta,---,---,/2016/01/E239.html
+Formaldehído,E240,Alta,---,---,/2016/01/E240.html
+Goma de Guayaco,E241,- - -,---,---,/2016/01/E241.html
+Dimetil Dicarbonato,E242,Alta,---,---,/2016/01/E242.html
+Etil Lauroil Arginato,E243,Baja,---,---,/2016/01/E243.html
+Nitrito de Potasio,E249,Alta,---,---,/2016/01/E249.html
+Nitrito de Sodio,E250,Alta,---,---,/2016/01/E250.html
+Nitrato de Sodio,E251,Media,---,---,/2016/01/E251.html
+Nitrato de Potasio,E252,Media,---,---,/2016/01/E252.html
+Ácido Acético,E260,Baja,---,---,/2016/01/E260.html
+Acetatos Potásicos,E261,Baja,---,---,/2016/01/E261.html
+Acetato de Potasio,E261i,- - -,---,---,/2016/01/E261i.html
+Diacetato de Potasio,E261ii,- - -,---,---,/2016/01/E261ii.html
+Acetatos Sódicos,E262,Baja,---,---,/2016/01/E262.html
+Acetato de Sodio,E262i,- - -,---,---,/2016/01/E262i.html
+Diacetato de Sodio,E262ii,- - -,---,---,/2016/01/E262ii.html
+Acetato de Calcio,E263,Baja,---,---,/2016/01/E263.html
+Acetato de Amonio,E264,Baja,---,---,/2016/01/E264.html
+Ácido Dehidroacético,E265,- - -,---,---,/2016/01/E265.html
+Dehidroacetato de Sodio,E266,- - -,---,---,/2016/01/E266.html
+Ácido Láctico,E270,Baja,---,---,/2016/01/E270.html
+Ácido Propiónico,E280,Alta,---,---,/2016/01/E280.html
+Propionato de Sodio,E281,Alta,---,---,/2016/01/E281.html
+Propionato de Calcio,E282,Alta,---,---,/2016/01/E282.html
+Propionato de Potasio,E283,Alta,---,---,/2016/01/E283.html
+Ácido Bórico,E284,Alta,---,---,/2016/01/E284.html
+Tetraborato de Sodio/ Bórax,E285,Alta,---,---,/2016/01/E285.html
+Dióxido de Carbono/ CO2,E290,Baja,---,---,/2016/01/E290.html
+Ácido Málico,E296,Media,---,---,/2016/01/E296.html
+Ácido Fumárico,E297,Baja,---,---,/2016/01/E297.html
+Ácido Ascórbico,E300,Baja,---,---,/2016/01/E300.html
+Ascorbato de Sodio,E301,Baja,---,---,/2016/01/E301.html
+Ascorbato de Calcio,E302,Baja,---,---,/2016/01/E302.html
+Ascorbato de Potasio,E303,Baja,---,---,/2016/01/E303.html
+Ésteres de Ácidos Grasos del Ácido Ascórbico,E304,Baja,---,---,/2016/01/E304.html
+Palmitato Ascorbilo,E304i,Baja,---,---,/2016/01/E304i.html
+Estearato Ascorbilo,E304ii,Baja,---,---,/2016/01/E304ii.html
+Extractos Naturales Ricos en Tocoferoles,E306,Baja,---,---,/2016/01/E306.html
+Alfa Tocoferol,E307,Baja,---,---,/2016/01/E307.html
+Gamma Tocoferol,E308,Baja,---,---,/2016/01/E308.html
+Delta Tocoferol,E309,Baja,---,---,/2016/01/E309.html
+Galato de Propilo,E310,Alta,---,---,/2016/01/E310.html
+Galato de Octilo,E311,Alta,---,---,/2016/01/E311.html
+Galato de Dodecilo,E312,Alta,---,---,/2016/01/E312.html
+Galato de Etilo,E313,- - -,---,---,/2016/01/E313.html
+Resina de Guayaco,E314,- - -,---,---,/2016/01/E314.html
+Ácido Eritórbico,E315,Baja,---,---,/2016/01/E315.html
+Eritorbato de Sodio,E316,Baja,---,---,/2016/01/E316.html
+Eritorbato de Potasio,E317,- - -,---,---,/2016/01/E317.html
+Eritorbato de Calcio,E318,- - -,---,---,/2016/01/E318.html
+Terbutilhidroquinona/ TBHQ,E319,Alta,---,---,/2016/01/E319.html
+Butilhidroxianisol/ BHA,E320,Alta,---,---,/2016/01/E320.html
+Butilhidroxitoluol/ BHT,E321,Alta,---,---,/2016/01/E321.html
+Lecitinas,E322,Baja,---,---,/2016/01/E322.html
+Anoxómero,E323,- - -,---,---,/2016/01/E323.html
+Etoxiquina,E324,Alta,---,---,/2016/01/E324.html
+Lactato de Sodio,E325,Baja,---,---,/2016/01/E325.html
+Lactato de Potasio,E326,Baja,---,---,/2016/01/E326.html
+Lactato de Calcio,E327,Baja,---,---,/2016/01/E327.html
+Lactato de Amonio,E328,Baja,---,---,/2016/01/E328.html
+Lactato de Magnesio,E329,Baja,---,---,/2016/01/E329.html
+Ácido Cítrico,E330,Baja,---,---,/2016/01/E330.html
+Citratos Sódicos,E331,Baja,---,---,/2016/01/E331.html
+Citrato Monosódico,E331i,- - -,---,---,/2016/01/E331i.html
+Citrato Disódico,E331ii,- - -,---,---,/2016/01/E331ii.html
+Citrato Trisódico,E331iii,- - -,---,---,/2016/01/E331iii.html
+Citratos Potásicos,E332,Baja,---,---,/2016/01/E332.html
+Citrato Monopotásico,E332i,- - -,---,---,/2016/01/E332i.html
+Citrato Dipotásico,E332ii,- - -,---,---,/2016/01/E332ii.html
+Citrato Tripotásico,E332iii,- - -,---,---,/2016/01/E332iii.html
+Citratos Cálcicos,E333,Baja,---,---,/2016/01/E333.html
+Citrato Monocálcico,E333i,- - -,---,---,/2016/01/E333i.html
+Citrato Dicálcico,E333ii,- - -,---,---,/2016/01/E333ii.html
+Citrato Tricálcico,E333iii,- - -,---,---,/2016/01/E333iii.html
+Ácido Tartárico,E334,Baja,---,---,/2016/01/E334.html
+Tartratos Sódicos,E335,Baja,---,---,/2016/01/E335.html
+Tartrato Monosódico,E335i,- - -,---,---,/2016/01/E335i.html
+Tartrato Disódico,E335ii,- - -,---,---,/2016/01/E335ii.html
+Tartratos Potásicos,E336,Baja,---,---,/2016/01/E336.html
+Tartrato Monopotásico,E336i,- - -,---,---,/2016/01/E336i.html
+Tartrato Dipotásico,E336ii,- - -,---,---,/2016/01/E336ii.html
+Tartrato Sódico-Potásico,E337,Baja,---,---,/2016/01/E337.html
+Ácido Fosfórico,E338,Media,---,---,/2016/01/E338.html
+Fosfatos Sódicos,E339,Media,---,---,/2016/01/E339.html
+Fosfato Monosódico,E339i,Media,---,---,/2016/01/E339i.html
+Fosfato Disódico,E339ii,Media,---,---,/2016/01/E339ii.html
+Fosfato Trisódico,E339iii,Media,---,---,/2016/01/E339iii.html
+Fosfatos Potásicos,E340,Media,---,---,/2016/01/E340.html
+Fosfato Monopotásico,E340i,Media,---,---,/2016/01/E340i.html
+Fosfato Dipotásico,E340ii,Media,---,---,/2016/01/E340ii.html
+Fosfato Tripotásico,E340iii,Media,---,---,/2016/01/E340iii.html
+Fosfatos Cálcicos,E341,Media,---,---,/2016/01/E341.html
+Fosfato Monocálcico,E341i,Media,---,---,/2016/01/E341i.html
+Fosfato Dicálcico,E341ii,Media,---,---,/2016/01/E341ii.html
+Fosfato Tricálcico,E341iii,Media,---,---,/2016/01/E341iii.html
+Fosfatos Amónicos,E342,Media,---,---,/2016/01/E342.html
+Fosfato Monoamónico,E342i,Media,---,---,/2016/01/E342i.html
+Fosfato Diamónico,E342ii,Media,---,---,/2016/01/E342ii.html
+Fosfato Triamónico,E342iii,Media,---,---,/2016/01/E342iii.html
+Fosfatos Magnésicos,E343,Media,---,---,/2016/01/E343.html
+Fosfato Monomagnésico,E343i,Media,---,---,/2016/01/E343i.html
+Fosfato Dimagnésico,E343ii,Media,---,---,/2016/01/E343ii.html
+Fosfato Trimagnésico,E343iii,Media,---,---,/2016/01/E343iii.html
+Citrato de Lecitina,E344,- - -,---,---,/2016/01/E344.html
+Citrato de Magnesio,E345,- - -,---,---,/2016/01/E345.html
+Malatos Amónicos,E349,Baja,---,---,/2016/01/E349.html
+Malato de Amonio,E349i,Baja,---,---,/2016/01/E349i.html
+Malato Ácido de Amonio,E349ii,Baja,---,---,/2016/01/E349ii.html
+Malatos Sódicos,E350,Baja,---,---,/2016/01/E350.html
+Malato de Sodio,E350i,Baja,---,---,/2016/01/E350i.html
+Malato Ácido de Sodio,E350ii,Baja,---,---,/2016/01/E350ii.html
+Malatos Potásicos,E351,Baja,---,---,/2016/01/E351.html
+Malato de Potasio,E351i,Baja,---,---,/2016/01/E351i.html
+Malato Ácido de Potasio,E351ii,Baja,---,---,/2016/01/E351ii.html
+Malatos Cálcicos,E352,Baja,---,---,/2016/01/E352.html
+Malato de Calcio,E352i,Baja,---,---,/2016/01/E352i.html
+Malato Ácido de Calcio,E352ii,Baja,---,---,/2016/01/E352ii.html
+Ácido Metatartárico,E353,Baja,---,---,/2016/01/E353.html
+Tartratos Cálcicos,E354,Baja,---,---,/2016/01/E354.html
+Tartrato Monocálcico,E354i,- - -,---,---,/2016/01/E354i.html
+Tartrato Dicálcico,E354ii,- - -,---,---,/2016/01/E354ii.html
+Ácido Adípico,E355,Baja,---,---,/2016/01/E355.html
+Adipato de Sodio,E356,Baja,---,---,/2016/01/E356.html
+Adipato de Potasio,E357,- - -,---,---,/2016/01/E357.html
+Adipato de Calcio,E358,- - -,---,---,/2016/01/E358.html
+Adipato de Amonio,E359,- - -,---,---,/2016/01/E359.html
+Adipato de Magnesio,E360,- - -,---,---,/2016/01/E360.html
+Ácido Succínico,E363,Baja,---,---,/2016/01/E363.html
+Succinato de Sodio,E364,- - -,---,---,/2016/01/E364.html
+Fumarato de Sodio,E365,Baja,---,---,/2016/01/E365.html
+Fumarato de Potasio,E366,Baja,---,---,/2016/01/E366.html
+Fumarato de Calcio,E367,Baja,---,---,/2016/01/E367.html
+Fumarato de Amonio,E368,Baja,---,---,/2016/01/E368.html
+Fumarato de Magnesio,E369,Baja,---,---,/2016/01/E369.html
+Heptonolactona,E370,Alta,---,---,/2016/01/E370.html
+Ácido Nicotínico,E375,Media,---,---,/2016/01/E375.html
+Citrato de Triamonio,E380,Baja,---,---,/2016/01/E380.html
+Citrato Férrico de Amonio,E381,Baja,---,---,/2016/01/E381.html
+Glicerofosfato de Calcio,E383,- - -,---,---,/2016/01/E383.html
+Citrato de Isopropilo,E384,- - -,---,---,/2016/01/E384.html
+Etileno Diamina Tetra Acetato/ EDTA,E385,Alta,---,---,/2016/01/E385.html
+Ácido Etileno Diamino Tetraacético/ AEDT,E386,Alta,---,---,/2016/01/E386.html
+Oxiestearina,E387,- - -,---,---,/2016/01/E387.html
+Ácido Tiodipropiónico/ TDPA,E388,- - -,---,---,/2016/01/E388.html
+Tiodipropionato de Dilaurilo,E389,- - -,---,---,/2016/01/E389.html
+Tiodipropionato de Distearilo,E390,- - -,---,---,/2016/01/E390.html
+Ácido Fítico,E391,- - -,---,---,/2016/01/E391.html
+Extracto de Romero,E392,Baja,---,---,/2016/01/E392.html
+Lactobionato de Calcio,E399,- - -,---,---,/2016/01/E399.html
+Ácido Algínico,E400,Baja,---,---,/2016/01/E400.html
+Alginato de Sodio,E401,Baja,---,---,/2016/01/E401.html
+Alginato de Potasio,E402,Baja,---,---,/2016/01/E402.html
+Alginato de Amonio,E403,Baja,---,---,/2016/01/E403.html
+Alginato de Calcio,E404,Baja,---,---,/2016/01/E404.html
+Alginato de Propilenglicol,E405,Baja,---,---,/2016/01/E405.html
+Agar-Agar,E406,Baja,---,---,/2016/01/E406.html
+Carragenanos,E407,Alta,---,---,/2016/01/E407.html
+Algas Euchema,E407a,Alta,---,---,/2016/01/E407a.html
+Glicano de Levadura Panaria,E408,- - -,---,---,/2016/01/E408.html
+Arabinogalactano,E409,- - -,---,---,/2016/01/E409.html
+Goma Garrofín,E410,Baja,---,---,/2016/01/E410.html
+Goma de Avena,E411,- - -,---,---,/2016/01/E411.html
+Goma Guar,E412,Baja,---,---,/2016/01/E412.html
+Goma Tragacanto,E413,Baja,---,---,/2016/01/E413.html
+Goma Arábiga,E414,Media,---,---,/2016/01/E414.html
+Goma Xantana,E415,Media,---,---,/2016/01/E415.html
+Goma Karaya,E416,Baja,---,---,/2016/01/E416.html
+Goma Tara,E417,Baja,---,---,/2016/01/E417.html
+Goma Gellan,E418,Baja,---,---,/2016/01/E418.html
+Goma Ghatti,E419,- - -,---,---,/2016/01/E419.html
+Sorbitoles y Jarabes de Sorbitol,E420,Media,---,---,/2016/01/E420.html
+Sorbitol,E420i,Media,---,---,/2016/01/E420i.html
+Jarabe de Sorbitol,E420ii,Media,---,---,/2016/01/E420ii.html
+Manitol,E421,Media,---,---,/2016/01/E421.html
+Glicerol,E422,Baja,---,---,/2016/01/E422.html
+Curdlan,E424,- - -,---,---,/2016/01/E424.html
+Harina de Konjac,E425,Baja,---,---,/2016/01/E425.html
+Goma de Konjac,E425i,Baja,---,---,/2016/01/E425i.html
+Glucomanano de Konjac,E425ii,Baja,---,---,/2016/01/E425ii.html
+Hemicelulosa de Soja,E426,Baja,---,---,/2016/01/E426.html
+Goma Cassia,E427,Media,---,---,/2016/01/E427.html
+Gelatina,E428,Media,---,---,/2016/01/E428.html
+Peptonas,E429,- - -,---,---,/2016/01/E429.html
+Peptona Pépsica,E429i,- - -,---,---,/2016/01/E429.html
+Peptona Pancreática,E429ii,- - -,---,---,/2016/01/E429.html
+Estearato de Polioxietileno 8,E430,Alta,---,---,/2016/01/E430.html
+Estearato de Polioxietileno 40,E431,Alta,---,---,/2016/01/E431.html
+Monolaurato de Sorbitano Polioxietinelado/ Polisorbato 20,E432,Alta,---,---,/2016/01/E432.html
+Monooleato de Sorbitano Polioxietinelado/ Polisorbato 80,E433,Alta,---,---,/2016/01/E433.html
+Monopalmitato de Sorbitano Polioxietinelado/ Polisorbato 40,E434,Alta,---,---,/2016/01/E434.html
+Monoestearato de Sorbitano Polioxietinelado/ Polisorbato 60,E435,Alta,---,---,/2016/01/E435.html
+Triestearato de Sorbitano Polioxietinelado/ Polisorbato 65,E436,Alta,---,---,/2016/01/E436.html
+Pectinas,E440,Baja,---,---,/2016/01/E440.html
+Pectina,E440i,Baja,---,---,/2016/01/E440i.html
+Pectina Amidada,E440ii,Baja,---,---,/2016/01/E440ii.html
+Aceite de Semilla de Colza Superglicerinado Hidrogenado,E441,- - -,---,---,/2016/01/E441.html
+Fosfátidos de Amonio,E442,Media,---,---,/2016/01/E442.html
+Aceite Vegetal Bromado,E443,Alta,---,---,/2016/01/E443.html
+Acetato Isobutirato de Sacarosa,E444,- - -,---,---,/2016/01/E444.html
+Ésteres Glicéridos de Resina,E445,Baja,---,---,/2016/01/E445.html
+Ésteres Glicéridos de Goma de Resina,E445i,Baja,---,---,/2016/01/E445i.html
+Ésteres Glicéridos de Colofonia de Aceite de Pino,E445ii,Baja,---,---,/2016/01/E445ii.html
+Ésteres Glicéridos de Colofonia de Madera,E445iii,- - -,---,---,/2016/01/E445iii.html
+Succistearina,E446,- - -,---,---,/2016/01/E446.html
+Difosfatos,E450,Media,---,---,/2016/01/E450.html
+Difosfato Disódico,E450i,Media,---,---,/2016/01/E450i.html
+Difosfato Trisódico,E450ii,Media,---,---,/2016/01/E450ii.html
+Difosfato Tetrasódico,E450iii,Media,---,---,/2016/01/E450iii.html
+Difosfato Dipotásico,E450iv,Media,---,---,/2016/01/E450iv.html
+Difosfato Tetrapotásico,E450v,Media,---,---,/2016/01/E450v.html
+Difosfato Dicálcico,E450vi,Media,---,---,/2016/01/E450vi.html
+Difosfato Ácido Cálcico,E450vii,Media,---,---,/2016/01/E450vii.html
+Difosfato Dimagnésico,E450viii,Media,---,---,/2016/01/E450viii.html
+Difosfato Magnésico de Dihidrógeno,E450ix,Media,---,---,/2016/01/E450ix.html
+Trifosfatos,E451,Media,---,---,/2016/01/E451.html
+Trifosfato Pentasódico,E451i,Media,---,---,/2016/01/E451i.html
+Trifosfato Pentapotásico,E451ii,Media,---,---,/2016/01/E451ii.html
+Trifosfato Sódico-Potásico,E451iii,Media,---,---,/2016/01/E451iii.html
+Polifosfatos,E452,Media,---,---,/2016/01/E452.html
+Polifosfato Sódico,E452i,Media,---,---,/2016/01/E452i.html
+Polifosfato Potásico,E452ii,Media,---,---,/2016/01/E452ii.html
+Polifosfato Sódico-Cálcico,E452iii,Media,---,---,/2016/01/E452iii.html
+Polifosfato Cálcico,E452iv,Media,---,---,/2016/01/E452iv.html
+Polifosfato Amónico,E452v,Media,---,---,/2016/01/E452v.html
+Poliaspartato Potásico,E456,- - -,---,---,/2016/01/E456.html
+Alfa-Ciclodextrina,E457,- - -,---,---,/2016/01/E457.html
+Gamma-Ciclodextrina,E458,- - -,---,---,/2016/01/E458.html
+Beta-Ciclodextrina,E459,Baja,---,---,/2016/01/E459.html
+Celulosas,E460,Media,---,---,/2016/01/E460.html
+Celulosa Microcristalina,E460i,Media,---,---,/2016/01/E460i.html
+Celulosa en Polvo,E460ii,Media,---,---,/2016/01/E460ii.html
+Metil Celulosa,E461,Media,---,---,/2016/01/E461.html
+Etil Celulosa,E462,Media,---,---,/2016/01/E462.html
+Hidroxipropil Celulosa,E463,Media,---,---,/2016/01/E463.html
+Hidroxipropilmetil Celulosa,E464,Media,---,---,/2016/01/E464.html
+Metil Etil Celulosa,E465,Media,---,---,/2016/01/E465.html
+Carboximetil Celulosa de Sodio,E466,Media,---,---,/2016/01/E466.html
+Etil Hidroxietil Celulosa,E467,Media,---,---,/2016/01/E467.html
+Carboximetil Celulosa de Sodio Reticulada,E468,Media,---,---,/2016/01/E468.html
+Carboximetil Celulosa de Sodio Hidrolizada,E469,Media,---,---,/2016/01/E469.html
+Sales de los Ácidos Grasos,E470,Baja,---,---,/2016/01/E470.html
+Sales de Sodio/ Potasio y Calcio de los Ácidos Grasos,E470a,Baja,---,---,/2016/01/E470a.html
+Sales de Magnesio de Ácidos Grasos,E470b,Baja,---,---,/2016/01/E470b.html
+Mono y Diglicéridos de Ácidos Grasos,E471,Media,---,---,/2016/01/E471.html
+Ésteres de los Mono y Diglicéridos de Ácidos Grasos,E472,Media,---,---,/2016/01/E472.html
+Ésteres Acéticos de los Mono y Diglicéridos de Ácidos Grasos,E472a,Media,---,---,/2016/01/E472a.html
+Ésteres Lácticos de los Mono y Diglicéridos de Ácidos Grasos,E472b,Media,---,---,/2016/01/E472b.html
+Ésteres Cítricos de los Mono y Diglicéridos de Ácidos Grasos,E472c,Media,---,---,/2016/01/E472c.html
+Ésteres Tartáricos de los Mono y Diglicéridos de Ácidos Grasos,E472d,Media,---,---,/2016/01/E472d.html
+Ésteres Mono y Diacetiltartárico de los Mono y Diglicéridos de Ácidos Grasos,E472e,Media,---,---,/2016/01/E472e.html
+Ésteres Mixtos Acéticos y Tartáricos de los Mono y Diglicéridos de Ácidos Grasos,E472f,Media,---,---,/2016/01/E472f.html
+Sucroésteres de Ácidos Grasos,E473,Media,---,---,/2016/01/E473.html
+Oligoésteres de Sacarosa,E473a,- - -,---,---,/2016/01/E473a.html
+Sucroglicéridos de Ácidos Grasos,E474,Media,---,---,/2016/01/E474.html
+Ésteres Poliglicéridos de Ácidos Grasos,E475,Media,---,---,/2016/01/E475.html
+Polirricinoleato de Poliglicerol,E476,Baja,---,---,/2016/01/E476.html
+Ésteres de Propilenglicol de Ácidos Grasos,E477,Media,---,---,/2016/01/E477.html
+Ésteres de Glicerol y Propilenglicol de Ácidos Grasos Lactilados,E478,- - -,---,---,/2016/01/E478.html
+Aceite de Soja Oxidado,E479,Media,---,---,/2016/01/E479.html
+Dioctil Sulfosuccinato de Sodio,E480,Media,---,---,/2016/01/E480.html
+Lactilatos Sódicos,E481,Baja,---,---,/2016/01/E481.html
+Estearoil Lactilato de Sodio,E481i,Baja,---,---,/2016/01/E481i.html
+Lactilato Oleico de Sodio,E481ii,- - -,---,---,/2016/01/E481ii.html
+Lactilatos Cálcicos,E482,Baja,---,---,/2016/01/E482.html
+Estearoil Lactilato de Calcio,E482i,- - -,---,---,/2016/01/E482i.html
+Lactilato Oleico de Calcio,E482ii,- - -,---,---,/2016/01/E482ii.html
+Tartrato de Estearilo,E483,Baja,---,---,/2016/01/E483.html
+Citrato de Estearilo,E484,- - -,---,---,/2016/01/E484.html
+Estearoil Fumarato de Sodio,E485,- - -,---,---,/2016/01/E485.html
+Estearoil Fumarato de Calcio,E486,- - -,---,---,/2016/01/E486.html
+Lauril Sulfato de Sodio,E487,- - -,---,---,/2016/01/E487.html
+Mono y Diglicéridos Etoxilados,E488,- - -,---,---,/2016/01/E488.html
+Éster de Metilglucósido de Aceite de Coco,E489,- - -,---,---,/2016/01/E489.html
+Monoestearato de Sorbitano,E491,Alta,---,---,/2016/01/E491.html
+Triestearato de Sorbitano,E492,Alta,---,---,/2016/01/E492.html
+Monolaurato de Sorbitano,E493,Alta,---,---,/2016/01/E493.html
+Monooleato de Sorbitano,E494,Alta,---,---,/2016/01/E494.html
+Monopalmitato de Sorbitano,E495,Alta,---,---,/2016/01/E495.html
+Trioleato de Sorbitano,E496,- - -,---,---,/2016/01/E496.html
+Fitoesteroles Ricos en Estigmasterol,E499,Baja,---,---,/2016/01/E499.html
+Carbonatos Sódicos,E500,Baja,---,---,/2016/01/E500.html
+Carbonato de Sodio,E500i,Baja,---,---,/2016/01/E500i.html
+Bicarbonato de Sodio,E500ii,Baja,---,---,/2016/01/E500ii.html
+Sesquicarbonato de Sodio,E500iii,- - -,---,---,/2016/01/E500iii.html
+Carbonatos Potásicos,E501,Baja,---,---,/2016/01/E501.html
+Carbonato de Potasio,E501i,Baja,---,---,/2016/01/E501i.html
+Bicarbonato de Potasio,E501ii,Baja,---,---,/2016/01/E501ii.html
+Carbonatos Amónicos,E503,Baja,---,---,/2016/01/E503.html
+Carbonato de Amonio,E503i,Baja,---,---,/2016/01/E503i.html
+Bicarbonato de Amonio,E503ii,Baja,---,---,/2016/01/E503ii.html
+Carbonatos Magnésicos,E504,Baja,---,---,/2016/01/E504.html
+Carbonato de Magnesio,E504i,Baja,---,---,/2016/01/E504i.html
+Bicarbonato de Magnesio,E504ii,Baja,---,---,/2016/01/E504ii.html
+Carbonato de Hierro,E505,- - -,---,---,/2016/01/E505.html
+Ácido Clorhídrico,E507,Alta,---,---,/2016/01/E507.html
+Cloruro de Potasio,E508,Alta,---,---,/2016/01/E508.html
+Cloruro de Calcio,E509,Alta,---,---,/2016/01/E509.html
+Cloruro de Amonio,E510,Alta,---,---,/2016/01/E510.html
+Cloruro de Magnesio,E511,Baja,---,---,/2016/01/E511.html
+Cloruro de Estaño,E512,Alta,---,---,/2016/01/E512.html
+Ácido Sulfúrico,E513,Alta,---,---,/2016/01/E513.html
+Sulfatos Sódicos,E514,Media,---,---,/2016/01/E514.html
+Sulfato de Sodio,E514i,Media,---,---,/2016/01/E514i.html
+Sulfato Ácido de Sodio,E514ii,Media,---,---,/2016/01/E514ii.html
+Sulfatos Potásicos,E515,Media,---,---,/2016/01/E515.html
+Sulfato de Potasio,E515i,Media,---,---,/2016/01/E515i.html
+Sulfato Ácido de Potasio,E515ii,Media,---,---,/2016/01/E515ii.html
+Sulfatos Cálcicos,E516,Media,---,---,/2016/01/E516.html
+Sulfato de Calcio,E516i,Media,---,---,/2016/01/E516i.html
+Sulfato Ácido de Calcio,E516ii,Media,---,---,/2016/01/E516ii.html
+Sulfatos Amónicos,E517,Media,---,---,/2016/01/E517.html
+Sulfato de Amonio,E517i,Media,---,---,/2016/01/E517i.html
+Sulfato Ácido de Amonio,E517ii,Media,---,---,/2016/01/E517ii.html
+Sulfatos Magnésicos,E518,Media,---,---,/2016/01/E518.html
+Sulfato de Magnesio,E518i,Media,---,---,/2016/01/E518i.html
+Sulfato Ácido de Magnesio,E518ii,Media,---,---,/2016/01/E518ii.html
+Sulfatos Cúpricos,E519,Alta,---,---,/2016/01/E519.html
+Sulfato de Cobre,E519i,Alta,---,---,/2016/01/E519i.html
+Sulfato Ácido de Cobre,E519ii,Alta,---,---,/2016/01/E519ii.html
+Sulfato de Aluminio,E520,Alta,---,---,/2016/01/E520.html
+Sulfato de Aluminio Sódico,E521,Alta,---,---,/2016/01/E521.html
+Sulfato de Aluminio Potásico,E522,Alta,---,---,/2016/01/E522.html
+Sulfato de Aluminio Amónico,E523,Alta,---,---,/2016/01/E523.html
+Hidróxido de Sodio,E524,Media,---,---,/2016/01/E524.html
+Hidróxido de Potasio,E525,Media,---,---,/2016/01/E525.html
+Hidróxido de Calcio,E526,Media,---,---,/2016/01/E526.html
+Hidróxido de Amonio,E527,Alta,---,---,/2016/01/E527.html
+Hidróxido de Magnesio,E528,Media,---,---,/2016/01/E528.html
+Óxido de Calcio,E529,Media,---,---,/2016/01/E529.html
+Óxido de Magnesio,E530,Media,---,---,/2016/01/E530.html
+Ferrocianuro de Sodio,E535,Media,---,---,/2016/01/E535.html
+Ferrocianuro de Potasio,E536,Media,---,---,/2016/01/E536.html
+Hexacianomanganato de Hierro,E537,Media,---,---,/2016/01/E537.html
+Ferrocianuro de Calcio,E538,Media,---,---,/2016/01/E538.html
+Tiosulfato de Sodio,E539,- - -,---,---,/2016/01/E539.html
+Fosfato Ácido de Calcio,E540,Media,---,---,/2016/01/E540.html
+Fosfato de Sodio y Aluminio,E541,Alta,---,---,/2016/01/E541.html
+Fosfato Ácido de Sodio y Aluminio,E541i,Alta,---,---,/2016/01/E541i.html
+Fosfato Básico de Sodio y Aluminio,E541ii,Alta,---,---,/2016/01/E541ii.html
+Fosfato Tribásico de Calcio,E542,Alta,---,---,/2016/01/E542.html
+Polifosfatos de Sodio y Calcio,E543,Media,---,---,/2016/01/E543.html
+Polifosfatos de Calcio,E544,Media,---,---,/2016/01/E544.html
+Polifosfatos de Amonio,E545,Media,---,---,/2016/01/E545.html
+Polifosfatos de Magnesio,E546,Media,---,---,/2016/01/E546.html
+Silicatos Sódicos,E550,- - -,---,---,/2016/01/E550.html
+Silicato de Sodio,E550i,- - -,---,---,/2016/01/E550i.html
+Metasilicato de Sodio,E550ii,- - -,---,---,/2016/01/E550ii.html
+Dióxido de Silicio,E551,Alta,---,---,/2016/01/E551.html
+Silicato de Calcio,E552,Alta,---,---,/2016/01/E552.html
+Silicatos Magnésicos,E553,Alta,---,---,/2016/01/E553.html
+Silicato de Magnesio,E553a,Alta,---,---,/2016/01/E553a.html
+Talco de Magnesio,E553b,Alta,---,---,/2016/01/E553b.html
+Silicato de Sodio y Aluminio,E554,Alta,---,---,/2016/01/E554.html
+Silicato de Potasio y Aluminio,E555,Alta,---,---,/2016/01/E555.html
+Silicato de Calcio y Aluminio,E556,Alta,---,---,/2016/01/E556.html
+Silicato de Zinc,E557,Alta,---,---,/2016/01/E557.html
+Bentonita,E558,Baja,---,---,/2016/01/E558.html
+Silicato de Aluminio,E559,Alta,---,---,/2016/01/E559.html
+Silicato de Potasio,E560,Alta,---,---,/2016/01/E560.html
+Ácido Esteárico,E570,Media,---,---,/2016/01/E570.html
+Estearato de Amonio,E571,Baja,---,---,/2016/01/E571.html
+Estearato de Magnesio,E572,Baja,---,---,/2016/01/E572.html
+Estearato de Aluminio,E573,Alta,---,---,/2016/01/E573.html
+Ácido Glucónico,E574,Baja,---,---,/2016/01/E574.html
+Glucono-Delta-Lactona ,E575,Baja,---,---,/2016/01/E575.html
+Gluconato de Sodio,E576,Baja,---,---,/2016/01/E576.html
+Gluconato de Potasio,E577,Baja,---,---,/2016/01/E577.html
+Gluconato de Calcio,E578,Baja,---,---,/2016/01/E578.html
+Gluconato de Hierro,E579,Baja,---,---,/2016/01/E579.html
+Lactato de Hierro,E585,Baja,---,---,/2016/01/E585.html
+Hexilresorcinol,E586,- - -,---,---,/2016/01/E586.html
+Ácido Glutámico ,E620,Alta,---,---,/2016/01/E620.html
+Glutamato Monosódico,E621,Alta,---,---,/2016/01/E621.html
+Glutamato Monopotásico,E622,Alta,---,---,/2016/01/E622.html
+Glutamato Cálcico,E623,Alta,---,---,/2016/01/E623.html
+Glutamato Amónico,E624,Alta,---,---,/2016/01/E624.html
+Glutamato Magnésico,E625,Alta,---,---,/2016/01/E625.html
+Ácido Guanílico,E626,Alta,---,---,/2016/01/E626.html
+Guanilato Sódico,E627,Alta,---,---,/2016/01/E627.html
+Guanilato Potásico,E628,Alta,---,---,/2016/01/E628.html
+Guanilato Cálcico,E629,Alta,---,---,/2016/01/E629.html
+Ácido Inosínico,E630,Alta,---,---,/2016/01/E630.html
+Inosinato Sódico,E631,Alta,---,---,/2016/01/E631.html
+Inosinato Potásico,E632,Alta,---,---,/2016/01/E632.html
+Inosinato Cálcico,E633,Alta,---,---,/2016/01/E633.html
+Ribonucleótidos de Calcio,E634,Alta,---,---,/2016/01/E634.html
+Ribonucleótidos de Sodio,E635,Alta,---,---,/2016/01/E635.html
+Maltol,E636,Media,---,---,/2016/01/E636.html
+Etil Maltol,E637,Media,---,---,/2016/01/E637.html
+Aspartato de Sodio,E638,- - -,---,---,/2016/01/E638.html
+Alanina,E639,- - -,---,---,/2016/01/E639.html
+Glicina y Glicinato de Sodio,E640,Alta,---,---,/2016/01/E640.html
+Leucina,E641,Media,---,---,/2016/01/E641.html
+Hidrocloruro de Lisina,E642,- - -,---,---,/2016/01/E642.html
+Acetato de Zinc,E650,Media,---,---,/2016/01/E650.html
+Dimetilsiloxano/ DMS,E900,Alta,---,---,/2016/01/E900.html
+Polidimetilsiloxano/ PDMS,E900a,Alta,---,---,/2016/01/E900a.html
+Polimetilfenilsiloxano/ PMFS,E900b,- - -,---,---,/2016/01/E900b.html
+Cera de Abejas,E901,Baja,---,---,/2016/01/E901.html
+Cera de Abejas Blanca,E901i,- - -,---,---,/2016/01/E901i.html
+Cera de Abejas Amarilla,E901ii,- - -,---,---,/2016/01/E901ii.html
+Cera de Candelilla,E902,Baja,---,---,/2016/01/E902.html
+Cera de Carnaúba,E903,Baja,---,---,/2016/01/E903.html
+Goma Laca,E904,Media,---,---,/2016/01/E904.html
+Cera Microcristalina,E905,Alta,---,---,/2016/01/E905.html
+Aceite Mineral de Calidad Alimentaria,E905a,- - -,---,---,/2016/01/E905a.html
+Vaselina de Calidad Alimentaria,E905b,- - -,---,---,/2016/01/E905b.html
+Cera de Parafina,E905c,- - -,---,---,/2016/01/E905c.html
+Parafina Líquida de Viscosidad Alta,E905d,- - -,---,---,/2016/01/E905d.html
+Parafina Líquida de Viscosidad Media y Baja/ Categoría 1,E905e,- - -,---,---,/2016/01/E905e.html
+Parafina Líquida de Viscosidad Media y Baja/ Categoría 2,E905f,- - -,---,---,/2016/01/E905f.html
+Parafina Líquida de Viscosidad Media y Baja/ Categoría 3,E905g,- - -,---,---,/2016/01/E905g.html
+Goma de Benzoína,E906,- - -,---,---,/2016/01/E906.html
+Poli Deceno Hidrogenado,E907,Alta,---,---,/2016/01/E907.html
+Cera de Salvado de Arroz,E908,- - -,---,---,/2016/01/E908.html
+Cera de Esperma de Ballena,E909,- - -,---,---,/2016/01/E909.html
+Ésteres de Cera,E910,- - -,---,---,/2016/01/E910.html
+Ésteres Metílicos de Ácidos Grasos,E911,- - -,---,---,/2016/01/E911.html
+Ésteres de Ácido Montánico,E912,Media,---,---,/2016/01/E912.html
+Cera de Lana/ Lanolina,E913,Baja,---,---,/2016/01/E913.html
+Cera de Polietileno Oxidada,E914,Alta,---,---,/2016/01/E914.html
+Ésteres de Glicerina/ Metílico o Pentaeritrítico de Colofonia Parcialmente Hidrogenada o Polimerizada,E915,- - -,---,---,/2016/01/E915.html
+Yodato de Calcio,E916,- - -,---,---,/2016/01/E916.html
+Yodato de Potasio,E917,- - -,---,---,/2016/01/E917.html
+Óxidos de Nitrógeno,E918,- - -,---,---,/2016/01/E918.html
+Cloruro de Nitrosilo,E919,- - -,---,---,/2016/01/E919.html
+L-Cisteína y Clorhidratos de Cisteína,E920,Baja,---,---,/2016/01/E920.html
+L-Cistina y Clorhidratos de Cistina,E921,- - -,---,---,/2016/01/E921.html
+Persulfato de Potasio,E922,- - -,---,---,/2016/01/E922.html
+Persulfato de Amonio,E923,- - -,---,---,/2016/01/E923.html
+Bromato de Potasio,E924a,- - -,---,---,/2016/01/E924a.html
+Bromato de Calcio,E924b,- - -,---,---,/2016/01/E924b.html
+Cloro,E925,- - -,---,---,/2016/01/E925.html
+Dióxido de Cloro,E926,- - -,---,---,/2016/01/E926.html
+Azodicarbonamida,E927a,Alta,---,---,/2016/01/E927a.html
+Carbamida,E927b,Baja,---,---,/2016/01/E927b.html
+Peróxido de Benzoilo,E928,- - -,---,---,/2016/01/E928.html
+Peróxido de Acetona,E929,- - -,---,---,/2016/01/E929.html
+Peróxido de Calcio,E930,- - -,---,---,/2016/01/E930.html
+Argón,E938,Baja,---,---,/2016/01/E938.html
+Helio,E939,Baja,---,---,/2016/01/E939.html
+Diclorodifluorometano,E940,- - -,---,---,/2016/01/E940.html
+Nitrógeno,E941,Baja,---,---,/2016/01/E941.html
+Óxido Nitroso,E942,Baja,---,---,/2016/01/E942.html
+Butano,E943a,Alta,---,---,/2016/01/E943a.html
+Isobutano,E943b,Alta,---,---,/2016/01/E943b.html
+Propano,E944,Alta,---,---,/2016/01/E944.html
+Cloropentafluoroetano,E945,- - -,---,---,/2016/01/E945.html
+Octafluorociclobutano,E946,- - -,---,---,/2016/01/E946.html
+Oxígeno,E948,Baja,---,---,/2016/01/E948.html
+Hidrógeno,E949,Baja,---,---,/2016/01/E949.html
+Acesulfamo K,E950,Alta,---,---,/2016/01/E950.html
+Aspartamo,E951,Alta,---,---,/2016/01/E951.html
+Ácido Ciclámico/ Sales de Sodio y Calcio,E952,Alta,---,---,/2016/01/E952.html
+Ácido Ciclámico,E952i,Alta,---,---,/2016/01/E952i.html
+Ciclamato Sódico,E952ii,Alta,---,---,/2016/01/E952ii.html
+Ciclamato Cálcico,E952iii,Alta,---,---,/2016/01/E952iii.html
+Isomaltosa,E953,Baja,---,---,/2016/01/E953.html
+Sacarina/ Sales de Sodio/ Potasio y Calcio,E954,Alta,---,---,/2016/01/E954.html
+Sacarina,E954i,Alta,---,---,/2016/01/E954i.html
+Sacarina Sódica,E954ii,Alta,---,---,/2016/01/E954ii.html
+Sacarina Potásica,E954iii,Alta,---,---,/2016/01/E954iii.html
+Sacarina Cálcica,E954iv,Alta,---,---,/2016/01/E954iv.html
+Sucralosa,E955,Alta,---,---,/2016/01/E955.html
+Alitamo,E956,- - -,---,---,/2016/01/E956.html
+Taumatina,E957,Baja,---,---,/2016/01/E957.html
+Glicirricina,E958,Alta,---,---,/2016/01/E958.html
+Neohesperidina Dihidrocalcona,E959,Media,---,---,/2016/01/E959.html
+Glucósidos de Esteviol,E960,Media,---,---,/2016/01/E960.html
+Neotamo,E961,Alta,---,---,/2016/01/E961.html
+Sal de Aspartamo y Acesulfamo,E962,Alta,---,---,/2016/01/E962.html
+Tagatosa,E963,Baja,---,---,/2016/01/E963.html
+Jarabe de Poliglicitol,E964,- - -,---,---,/2016/01/E964.html
+Maltitol y Jarabe de Maltitol,E965,Media,---,---,/2016/01/E965.html
+Maltitol,E965i,Media,---,---,/2016/01/E965i.html
+Jarabe de Maltitol,E965ii,Media,---,---,/2016/01/E965ii.html
+Lactitol,E966,Media,---,---,/2016/01/E966.html
+Xilitol,E967,Baja,---,---,/2016/01/E967.html
+Eritritol,E968,Baja,---,---,/2016/01/E968.html
+Advantamo,E969,Media,---,---,/2016/01/E969.html
+Extracto de Quillay,E999,Media,---,---,/2016/01/E999.html
+Ácido Cólico,E1000,- - -,---,---,/2016/01/E1000.html
+Sales y Ésteres de Colina,E1001,- - -,---,---,/2016/01/E1001.html
+Acetato de Colina,E1001i,- - -,---,---,/2016/01/E1001i.html
+Carbonato de Colina,E1001ii,- - -,---,---,/2016/01/E1001ii.html
+Cloruro de Colina,E1001iii,- - -,---,---,/2016/01/E1001iii.html
+Citrato de Colina,E1001iv,- - -,---,---,/2016/01/E1001iv.html
+Tartrato de Colina,E1001v,- - -,---,---,/2016/01/E1001v.html
+Lactato de Colina,E1001vi,- - -,---,---,/2016/01/E1001vi.html
+Amilasas,E1100,Media,---,---,/2016/01/E1100.html
+Peptidasas,E1101,- - -,---,---,/2016/01/E1101.html
+Peptidasa,E1101i,- - -,---,---,/2016/01/E1101i.html
+Papaína,E1101ii,- - -,---,---,/2016/01/E1101ii.html
+Bromelina,E1101iii,- - -,---,---,/2016/01/E1101iii.html
+Ficina,E1101iv,- - -,---,---,/2016/01/E1101iv.html
+Glucosa Oxidasa,E1102,- - -,---,---,/2016/01/E1102.html
+Invertasas,E1103,Baja,---,---,/2016/01/E1103.html
+Lipasas,E1104,- - -,---,---,/2016/01/E1104.html
+Lisozima,E1105,Media,---,---,/2016/01/E1105.html
+Polidextrosas A y N,E1200,Baja,---,---,/2016/01/E1200.html
+Polivinilpirrolidona/ PVP,E1201,Alta,---,---,/2016/01/E1201.html
+Polivinilpolipirrolidona/ PVPP,E1202,Alta,---,---,/2016/01/E1202.html
+Alcohol Polivinílico/ PVA,E1203,Media,---,---,/2016/01/E1203.html
+Pululano,E1204,Baja,---,---,/2016/01/E1204.html
+Copolímero de Metacrilato Básico,E1205,- - -,---,---,/2016/01/E1205.html
+Copolímero de Acetato de Vinilo,E1208,Alta,---,---,/2016/01/E1208.html
+Copolímero de Injerto/ PVA-PEG,E1209,Media,---,---,/2016/01/E1209.html
+Dextrinas,E1400,Media,---,---,/2016/01/E1400.html
+Almidón Ácido,E1401,Media,---,---,/2016/01/E1401.html
+Almidón Alcalino,E1402,Media,---,---,/2016/01/E1402.html
+Almidón Blanqueado,E1403,Media,---,---,/2016/01/E1403.html
+Almidón Oxidado,E1404,Media,---,---,/2016/01/E1404.html
+Almidón Enzimático,E1405,Media,---,---,/2016/01/E1405.html
+Fosfato de Monoalmidón,E1410,Media,---,---,/2016/01/E1410.html
+Fosfato de Dialmidón,E1412,Media,---,---,/2016/01/E1412.html
+Fosfato de Dialmidón Fosfatado,E1413,Media,---,---,/2016/01/E1413.html
+Fosfato de Dialmidón Acetilado,E1414,Media,---,---,/2016/01/E1414.html
+Almidón Acetilado,E1420,Media,---,---,/2016/01/E1420.html
+Adipato de Dialmidón Acetilado,E1422,Media,---,---,/2016/01/E1422.html
+Hidroxipropil de Almidón,E1440,Media,---,---,/2016/01/E1440.html
+Glicerona de Dialmidón Hidroxipropilado,E1441,Media,---,---,/2016/01/E1441.html
+Fosfato de Dialmidón Hidroxipropilado,E1442,Media,---,---,/2016/01/E1442.html
+Octenil Succinato Sódico de Almidón,E1450,Media,---,---,/2016/01/E1450.html
+Almidón Oxidado Acetilado,E1451,Media,---,---,/2016/01/E1451.html
+Octenil Succinato Alumínico de Almidón,E1452,Media,---,---,/2016/01/E1452.html
+Hidrocarbonos Bencilados,E1501,- - -,---,---,/2016/01/E1501.html
+Butanodiol,E1502,- - -,---,---,/2016/01/E1502.html
+Aceite de Ricino,E1503,- - -,---,---,/2016/01/E1503.html
+Acetato de Etilo,E1504,- - -,---,---,/2016/01/E1504.html
+Citrato de Trietilo,E1505,Media,---,---,/2016/01/E1505.html
+Alcohol Etílico,E1510,- - -,---,---,/2016/01/E1510.html
+Monoacetato de Glicerol,E1516,- - -,---,---,/2016/01/E1516.html
+Diacetato de Glicerilo,E1517,Alta,---,---,/2016/01/E1517.html
+Triacetato de Glicerilo,E1518,Alta,---,---,/2016/01/E1518.html
+Alcohol Bencílico,E1519,Media,---,---,/2016/01/E1519.html
+Propilenglicol,E1520,Media,---,---,/2016/01/E1520.html
+Polietilenglicol,E1521,Alta,---,---,/2016/01/E1521.html
+Lignosulfonato de Calcio,E1522,- - -,---,---,/2016/01/E1522.html

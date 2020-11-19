@@ -1,0 +1,72 @@
+{% load static %}
+{% block content %}
+<div class="card-details">
+
+  <div class="card-details-container">
+    <div class="raw-text">
+      <h2><strong>Detected text:</strong></h2><br>
+      {{card.raw_data}}
+    </div>
+    <div class="card-details-image">
+      <img src="{{card.card_url}}" alt="">
+    </div>
+  </div>
+
+  {% if peligrosos %}
+    <div class="red">
+      <h2>Ingredientes peligrosos:</h2>
+      {% for aditivo in peligrosos %}
+      <li>
+        Ingrediente: <strong>{{aditivo.name}}</strong>
+        Mejor coincidencia: <a href="{{aditivo.aditivo.link}}" target="_blank">
+                            <strong>{{aditivo.aditivo.name}}</strong></a>
+      </li><br>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if sospechosos %}
+    <div class="yellow">
+      <h2>Ingredientes sospechosos:</h2>
+      {% for aditivo in sospechosos %}
+      <li>
+        Ingrediente: <strong>{{aditivo.name}}</strong>
+        Mejor coincidencia: <a href="{{aditivo.aditivo.link}}" target="_blank">
+                            <strong>{{aditivo.aditivo.name}}</strong></a>
+      </li><br>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if no_nocivos %}
+    <div class="green">
+      <h2>Ingredientes no nocivos:</h2>
+      {% for aditivo in no_nocivos %}
+      <li>
+        Ingrediente: <strong>{{aditivo.name}}</strong>
+        Mejor coincidencia: <a href="{{aditivo.aditivo.link}}" target="_blank">
+                            <strong>{{aditivo.aditivo.name}}</strong></a>
+      </li><br>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <div class="gray">
+    <h2>Otros ingredientes:</h2>
+    {% for aditivo in desconocidos %}
+    <li>
+      Ingrediente: <strong>{{aditivo.name}}</strong>
+      Mejor coincidencia: <a href="{{aditivo.aditivo.link}}" target="_blank">
+                          <strong>{{aditivo.aditivo.name}}</strong></a>
+    </li><br>
+    {% endfor %}
+    {% for otro in otros %}
+    <li>
+      Ingrediente: <strong>{{otro.name}}</strong>
+      Mejor coincidencia:<strong>{{otro.aditivo.name}}</strong>
+    </li><br>
+    {% endfor %}
+  </div>
+
+</div>
+{% endblock %}

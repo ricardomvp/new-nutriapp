@@ -1,0 +1,18 @@
+{% load static %}
+{% block content %}
+  <div class="card-image">
+    <img src="{{card.card_url}}" alt="">
+  </div>
+  <div class="card-container">
+    <div class="card-info">
+      {{card.card_id}}
+    </div>
+    <div class="card-explore">
+      <a href="{{url}}home/card/{{card.card_id}}">
+        <button type="button" name="button">
+          Explorar
+        </button>
+      </a>
+    </div>
+  </div>
+{% endblock %}

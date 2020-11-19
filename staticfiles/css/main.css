@@ -1,0 +1,221 @@
+
+:root{
+ --primary-green: green;
+ --secondary-green: #D1FFB5;
+ --primary-yellow: yellow;
+ --secondary-yellow: #FAEBBE;
+ --primary-red: red;
+ --secondary-red: #FDC6B8;
+
+ --primary-text: white;
+ --secondary-text: gray;
+ --third-text: black;
+}
+html * {
+  font-family: sans-serif;
+}
+
+.background{
+  width: 100%;
+}
+.content{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: black;
+}
+body{
+  background: black;
+  color: var(--primary-text);
+}
+hr{
+  height: 4px;
+  background-color: var(--secondary-text);
+  border: none;
+}
+/* NAVBAR */
+.navbar {
+  background-color: white;
+  padding:3px;
+  color: var(--third-text);
+}
+.link{
+  display:inline-block;
+}
+.link ul li{
+  list-style-type: none;
+}
+.link ul li a{
+  text-decoration: none;
+  color: var(--third-text);
+}
+.rmvp {
+  display:inline-block;
+  margin: 10px;
+  text-align: center;
+  float: right;
+  vertical-align: top;
+  font-size: 12px;
+}
+.rmvp a{
+  color: var(--third-text);
+  text-decoration: none;
+}
+
+/* NAVBAR */
+
+/* BODY */
+.btn-new-image{
+  margin-top: 10px;
+}
+.red_card{
+  width: 250px;
+  height: 380px;
+  border: solid var(--primary-red);
+  background: var(--secondary-red);
+  color: var(--third-text);
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top
+}
+.yellow_card{
+  width: 250px;
+  height: 380px;
+  border: solid var(--primary-yellow);
+  background: var(--secondary-yellow);
+  color: var(--third-text);
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top
+}
+.green_card{
+  width: 250px;
+  height: 380px;
+  border: solid var(--primary-green);
+  background: var(--secondary-green);
+  color: var(--third-text);
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top
+}
+.card-image{
+  width: 250px;
+  height: 334px;
+}
+
+.card-image img{
+  width: 100%;
+  max-height: 334px;
+}
+.card-explore a button{
+float:right;
+margin-top: 20px;
+margin-right: 10px;
+}
+.pagination{
+  text-align: center;
+  margin-bottom: 10px;
+
+}
+.page {
+  width: 30px;
+  height:30px;
+  border: 3px solid white;
+  display:inline-block;
+}
+.page a {
+  vertical-align: sub;
+  text-decoration: none;
+  color: var(--primary-text);
+}
+
+/* CARD PAGE */
+.card-details{
+  color: var(--third-text);
+}
+.card-container{
+  display: contents;
+  margin: 10px;
+}
+.card-details-container{
+  display: flex;
+  margin: 10px;
+}
+.card-info{
+  word-wrap: break-word;
+  display: none;
+}
+.raw-text{
+  width: 50%;
+  color: var(--primary-text);
+}
+.card-details-image{
+  width: 50%;
+  text-align: center;
+}
+.card-details-image img{
+  width: 250px;
+  max-width: 100%;
+  max-height: 500px;
+}
+.red{
+  background-color: var(--secondary-red);
+  border-bottom: 6px solid var(--primary-red);
+}
+.yellow{
+  background-color: var(--secondary-yellow);
+  border-bottom: 6px solid var(--primary-yellow);
+}
+.green{
+  background-color: var(--secondary-green);
+  border-bottom: 6px solid var(--primary-green);
+}
+.gray{
+  background-color:#C0C0C0;
+  border-bottom: 6px solid gray;
+}
+/* CARD PAGE */
+
+/* BODY */
+
+/* FOOTER */
+footer{
+  position: absolute;
+  width: inherit;
+  border-radius: 5px;
+  text-align: center;
+  bottom: 0;
+  display: contents;
+}
+footer a {
+  text-decoration: none;
+  color: var(--primary-text);
+}
+.first-row{
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.first-row span li{
+  list-style-type: none;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+.second-row{
+  text-align: center;
+}
+.second-row h4{
+  margin: 2px;
+}
+.second-row img{
+  height: 30px;
+  width: 30px;
+  margin: 2px;
+}
+.github-link{
+
+}
+.github-link a {
+  color: var(--secondary-text);
+}
+/* FOOTER */
