@@ -24,7 +24,7 @@ def home_redirect(request):
     return redirect('home/page/1')
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    # path('admin/', admin.site.urls),
     path('', home_redirect), #redirect
     path('home/', include(('apps.home.urls','home'), namespace='home')),
 ]
